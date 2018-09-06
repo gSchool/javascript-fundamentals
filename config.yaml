@@ -1,0 +1,16 @@
+---
+Title: Web Fundamentals
+Standards:
+  - Title: Command Line
+    UID: fca6352c-c82f-4953-a1e1-7a1647513bd2
+    Description: placeholder
+    SuccessCriteria:
+      - placeholder
+    ContentFiles:
+      - Type: Lesson
+        Path: /command-line/00-overview.md
+        UID: 54f77abd-4158-47d3-a8e1-de135a322b97
+      - Type: Checkpoint
+        Path: /command-line/99-checkpoint.md
+        UID: 5319e820-8702-475f-b448-b9a411edd8e3
+        Autoscore: false
