@@ -77,7 +77,7 @@ There are many other tools you can install now that you have Homebrew. Ultimatel
 ### !challenge
 
 * type: paragraph
-* id: 38664260-b3ad-11e8-9e59-fdef184d96cc
+* id: 51f8b570-b3b0-11e8-90f0-abdddc30bab5
 * title: Homebrew
 
 ### !question
