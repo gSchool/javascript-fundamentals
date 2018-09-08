@@ -177,3 +177,94 @@ Standards:
         UID: 7aaf89e5-b3bf-11e8-9a05-b358babb11ac
         Path: /git/99-checkpoint.md
         Autoscore: false
+  - Title: Javascript Fundamentals
+    UID: 7aaf89d5-b3bf-11e8-9a05-b358babb11ac
+    Description: Utilize Javascript to solve accumulator problems
+    SuccessCriteria:
+      - 'Declare new, well-named variables with `var` and assign values to them'
+      - Use arithmetic operators on numbers
+      - Compare numbers and booleans
+      - Coerce strings into numbers with `==`
+      - Use template literals to use stored values in a string
+      - Create arrays with and without elements using the array literal syntax
+      - Access and replace values with bracket notation
+      - Add and remove from arrays with native array methods
+      - Create objects with and without contents using the object literal syntax
+      - >-
+        Access, replace, and add new values with bracket notation and dot
+        notation
+      - 'Create, access, and manipulate arrays/objects inside of arrays/objects'
+      - Loop a certain number of times with `for` and `while`
+      - Loop over arrays and objects
+      - Use conditionals to branch code
+      - >-
+        Use switch statements to handle multiple possible values to control the
+        flow of programs
+      - >-
+        Use objects to handle multiple possible values to control the flow of
+        programs
+      - Loop through deeply nested arrays and objects with for loops
+      - Use the browser's console to identify client-side JavaScript errors
+      - Identify common error types and their meanings
+      - Solve a bug with \"wolf fencing\"
+      - >-
+        Use Chrome breakpoints to stop the execution of code to identify and
+        solve problems
+      - >-
+        Use the node debugger to step through code to identify and solve
+        problems
+      - Identify the parts of the accumulator pattern
+      - >-
+        Write join, leftPad, rightPad, sum, and average functions using the
+        accumulator pattern
+      - 'Write min, max, and indexOf using the accumulator pattern'
+    ContentFiles:
+      - Type: Lesson
+        UID: 7aaf89d6-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/00-overview.md
+      - Type: Lesson
+        UID: 7aaf89d7-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/01-vars.md
+      - Type: Lesson
+        UID: 7aaf89d8-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/02-arithmetic-operators.md
+      - Type: Lesson
+        UID: 7aaf89d9-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/03-compare-numbers-and-booleans.md
+      - Type: Lesson
+        UID: 7aaf89da-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/04-coercion.md
+      - Type: Lesson
+        UID: 7aaf89db-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/05-templates.md
+      - Type: Lesson
+        UID: 7aaf89dc-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/06-exercise.md
+      - Type: Lesson
+        UID: 7aaf89dd-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/07-branches.md
+      - Type: Lesson
+        UID: 7aaf89de-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/08-feature-branch.md
+      - Type: Lesson
+        UID: 7aaf89df-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/09-merge.md
+      - Type: Lesson
+        UID: 7aaf89e0-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/10-exercise.md
+      - Type: Lesson
+        UID: 7aaf89e1-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/11-sync.md
+      - Type: Lesson
+        UID: 7aaf89e2-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/12-remotes.md
+      - Type: Lesson
+        UID: 7aaf89e3-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/13-forking.md
+      - Type: Lesson
+        UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/14-pulling-new-changes.md
+      - Type: Checkpoint
+        UID: 7aaf89e5-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/99-checkpoint.md
+        Autoscore: false
