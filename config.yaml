@@ -1,16 +1,81 @@
 ---
 Title: Web Fundamentals
 Standards:
+  - Title: Development Environment
+    UID: ba78d9c0-b3a8-11e8-85c6-85b9be4b4a33
+    Description: Customize the command line for increased productivity
+    SuccessCriteria:
+      - Install and configure the Slack Application
+      - Install and/or configure a terminal program
+      - Install and/or configure a window management tool
+      - Score 25wpm or higher on typing.io with JavaScript
+      - Install an operating system package manager
+      - Install a text editor
+      - Install Node.js
+      - Install Git
+      - Customize command line prompt with zsh themes
+      - Print environment variables to the console
+      - >-
+        Define new environment variables for the existing terminal session and
+        for future terminal sessions
+      - Run JavaScript in the browser console
+      - Run JavaScript files with node and the repl
+    ContentFiles:
+      - Type: Lesson
+        UID: ba7900d0-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/00-overview.md
+      - Type: Lesson
+        UID: ba7900d1-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/01-slack.md
+      - Type: Lesson
+        UID: ba7927e0-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/02-terminal.md
+      - Type: Lesson
+        UID: ba7927e1-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/03-window-management.md
+      - Type: Lesson
+        UID: ba7927e2-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/04-typing.md
+      - Type: Lesson
+        UID: ba794ef0-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/05-homebrew.md
+      - Type: Lesson
+        UID: ba794ef1-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/06-text-editor.md
+      - Type: Lesson
+        UID: ba794ef2-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/07-node.md
+      - Type: Lesson
+        UID: ba797600-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/08-git.md
+      - Type: Lesson
+        UID: ba797601-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/09-zsh.md
+      - Type: Lesson
+        UID: ba797602-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/10-print.md
+      - Type: Lesson
+        UID: ba799d10-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/11-set.md
+      - Type: Lesson
+        UID: ba799d11-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/12-browser-console.md
+      - Type: Lesson
+        UID: ba79c420-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /subtrees/productivity-curriculum/Development Environment/Node.md
+      - Type: Checkpoint
+        UID: ba79c421-b3a8-11e8-85c6-85b9be4b4a33
+        Path: /Development Environment/99-checkpoint.md
+        Autoscore: false
   - Title: Command Line
-    UID: fca6352c-c82f-4953-a1e1-7a1647513bd2
     Description: placeholder
     SuccessCriteria:
       - placeholder
     ContentFiles:
       - Type: Lesson
+        UID: ba79c422-b3a8-11e8-85c6-85b9be4b4a33
         Path: /command-line/00-overview.md
-        UID: 54f77abd-4158-47d3-a8e1-de135a322b97
       - Type: Checkpoint
+        UID: ba79c423-b3a8-11e8-85c6-85b9be4b4a33
         Path: /command-line/99-checkpoint.md
-        UID: 5319e820-8702-475f-b448-b9a411edd8e3
         Autoscore: false
