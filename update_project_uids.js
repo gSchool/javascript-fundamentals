@@ -16,7 +16,7 @@ for(let k = 0; k<directories.length; k++){
           current++;
         }
         let newUid = uuidv1();
-        data = data.slice(0, i+6) + newUid + '\n' + data.slice(current);
+        data = data.slice(0, i+6) + newUid + '\n*' + data.slice(current);
         i += newUid.length;
       }
     }
