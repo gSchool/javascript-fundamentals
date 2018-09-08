@@ -21,7 +21,7 @@ A developer spends a great deal of time on a keyboard. For both productivity and
 ### !challenge
 
 * type: short-answer
-* id: c0d92540-b3bc-11e8-9f6a-6732205b0888
+* id: e072d3e0-b3be-11e8-9259-b32b810a6dba
 * title: Typing
 
 ### !question

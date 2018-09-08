@@ -72,7 +72,7 @@ Once you have changed the file, save it (with `Command` + `S`) and then open up 
 ### !challenge
 
 * type: multiple-choice
-* id: c0d9c180-b3bc-11e8-9f6a-6732205b0888
+* id: e0734910-b3be-11e8-9259-b32b810a6dba
 * title: Customizing the Shell A
 
 ### !question
@@ -102,7 +102,7 @@ Terminal Settings
 ### !challenge
 
 * type: multiple-choice
-* id: c0d9c181-b3bc-11e8-9f6a-6732205b0888
+* id: e0734911-b3be-11e8-9259-b32b810a6dba
 * title: Customizing the Shell B
 
 ### !question

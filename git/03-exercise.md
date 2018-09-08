@@ -5,7 +5,7 @@ following exercise.
 
 ### !vimeo
 
-* id: c0db2112-b3bc-11e8-9f6a-6732205b0888
+* id: e0743370-b3be-11e8-9259-b32b810a6dba
 * !end-vimeo
 
 ## Requirements
@@ -52,7 +52,7 @@ following exercise.
 ### !challenge
 
 * type: testable-project
-* id: c0db2113-b3bc-11e8-9f6a-6732205b0888
+* id: e0743371-b3be-11e8-9259-b32b810a6dba
 * title: Git Primer Checkpoint
 * upstream: https://github.com/gSchool/git-primer-checkpoint-tests
 * validate_fork: false

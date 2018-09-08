@@ -13,7 +13,7 @@ _By the end of this lesson, you will be able to define and describe the followin
 
 ### !vimeo
 
-* id: c0dad2f0-b3bc-11e8-9f6a-6732205b0888
+* id: e073e550-b3be-11e8-9259-b32b810a6dba
 * !end-vimeo
 
 ## Git
@@ -54,7 +54,7 @@ On Github, when you **fork** a repository, you create a personal copy of that re
 
 ### !challenge
 * type: multiple-choice
-* id: c0dad2f1-b3bc-11e8-9f6a-6732205b0888
+* id: e073e551-b3be-11e8-9259-b32b810a6dba
 * title: Question 1
 
 ##### !question
@@ -80,7 +80,7 @@ https://help.github.com/articles/fork-a-repo/
 
 ### !challenge
 * type: multiple-choice
-* id: c0dad2f2-b3bc-11e8-9f6a-6732205b0888
+* id: e073e552-b3be-11e8-9259-b32b810a6dba
 * title: Question 2
 
 ##### !question
@@ -107,7 +107,7 @@ https://help.github.com/articles/cloning-a-repository/
 
 ### !challenge
 * type: multiple-choice
-* id: c0dad2f3-b3bc-11e8-9f6a-6732205b0888
+* id: e073e553-b3be-11e8-9259-b32b810a6dba
 * title: Question 3
 
 ##### !question
@@ -134,7 +134,7 @@ https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command
 
 ### !challenge
 * type: multiple-choice
-* id: c0dad2f4-b3bc-11e8-9f6a-6732205b0888
+* id: e073e554-b3be-11e8-9259-b32b810a6dba
 * title: Question 4
 
 ##### !question
