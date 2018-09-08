@@ -54,7 +54,7 @@ Since Homebrew installs new commands to the `/usr/local/bin` directory, Homebrew
 ### !challenge
 
 * type: short-answer
-* id: 51fcd420-b3b0-11e8-90f0-abdddc30bab5
+* id: e39d1a20-b3b0-11e8-99a4-573c60b11497
 * title: Printing One Environment Variable
 
 ### !question
@@ -89,7 +89,7 @@ The `echo` command will print out environment variables.
 ### !challenge
 
 * type: short-answer
-* id: 51fcd421-b3b0-11e8-90f0-abdddc30bab5
+* id: e39d1a21-b3b0-11e8-99a4-573c60b11497
 * title: Printing All Environment Variables
 
 ### !question
