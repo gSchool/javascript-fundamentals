@@ -23,49 +23,49 @@ Standards:
     ContentFiles:
       - Type: Lesson
         UID: ba7900d0-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/00-overview.md
+        Path: /dev-environment/00-overview.md
       - Type: Lesson
         UID: ba7900d1-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/01-slack.md
+        Path: /dev-environment/01-slack.md
       - Type: Lesson
         UID: ba7927e0-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/02-terminal.md
+        Path: /dev-environment/02-terminal.md
       - Type: Lesson
         UID: ba7927e1-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/03-window-management.md
+        Path: /dev-environment/03-window-management.md
       - Type: Lesson
         UID: ba7927e2-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/04-typing.md
+        Path: /dev-environment/04-typing.md
       - Type: Lesson
         UID: ba794ef0-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/05-homebrew.md
+        Path: /dev-environment/05-homebrew.md
       - Type: Lesson
         UID: ba794ef1-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/06-text-editor.md
+        Path: /dev-environment/06-text-editor.md
       - Type: Lesson
         UID: ba794ef2-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/07-node.md
+        Path: /dev-environment/07-node.md
       - Type: Lesson
         UID: ba797600-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/08-git.md
+        Path: /dev-environment/08-git.md
       - Type: Lesson
         UID: ba797601-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/09-zsh.md
+        Path: /dev-environment/09-zsh.md
       - Type: Lesson
         UID: ba797602-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/10-print.md
+        Path: /dev-environment/10-print.md
       - Type: Lesson
         UID: ba799d10-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/11-set.md
+        Path: /dev-environment/11-set.md
       - Type: Lesson
         UID: ba799d11-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/12-browser-console.md
+        Path: /dev-environment/12-browser-console.md
       - Type: Lesson
         UID: ba79c420-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /subtrees/productivity-curriculum/Development Environment/Node.md
+        Path: /dev-environment/13-node.md
       - Type: Checkpoint
         UID: ba79c421-b3a8-11e8-85c6-85b9be4b4a33
-        Path: /Development Environment/99-checkpoint.md
+        Path: /dev-environment/99-checkpoint.md
         Autoscore: false
   - Title: Command Line
     Description: placeholder
