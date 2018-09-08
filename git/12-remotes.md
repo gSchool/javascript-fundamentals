@@ -5,8 +5,9 @@ The previous two lines we copied to push our local code up to GitHub include a l
 ## Working with Git Remotes
 
 ### !vimeo
-* id: e0756bf1-b3be-11e8-9259-b32b810a6dba
-* !end-vimeo
+* id: 223815947
+### !end-vimeo
+
 
 ## Challenges
 
@@ -15,7 +16,7 @@ The previous two lines we copied to push our local code up to GitHub include a l
 ### !challenge
 
 * type: short-answer
-* id: e0756bf2-b3be-11e8-9259-b32b810a6dba
+* id: 7acb2823-b3bf-11e8-b825-0fe87e3c28a7
 * title: Remotes A
 
 ##### !question
@@ -37,7 +38,7 @@ What command would you run to create a local copy of a repository on GitHub on y
 ### !challenge
 
 * type: short-answer
-* id: e0756bf3-b3be-11e8-9259-b32b810a6dba
+* id: 7acb2824-b3bf-11e8-b825-0fe87e3c28a7
 * title: Remotes B
 
 ##### !question

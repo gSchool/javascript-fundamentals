@@ -8,7 +8,7 @@ for(let k = 0; k<directories.length; k++){
     let data = fs.readFileSync(fullPath, 'utf8');
 
     for(let i = 0; i<data.length - 3; i++){
-      if(data[i]+data[i+1]+data[i+2]+data[i+3]+data[i+4] === '* id:'){
+      if(data[i]+data[i+1]+data[i+2]+data[i+3]+data[i+4] === '* id:' && data[i-7]+data[i-6]+data[i-5]+data[i-4]+data[i-3]+data[i-2] !== '!vimeo'){
         let current = i + 6;
 
         while(data[current]!= ' '){

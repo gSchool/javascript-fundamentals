@@ -11,7 +11,7 @@ Looking at the history of your git repository is helpful in all kinds of cases, 
 ### !challenge
 
 * type: short-answer
-* id: e074a8a0-b3be-11e8-9259-b32b810a6dba
+* id: 7acada00-b3bf-11e8-b825-0fe87e3c28a7
 * title: Git Log A
 
 ##### !question
@@ -33,7 +33,7 @@ In your `practicing-with-git` repository, create a new file, stage it, commit it
 ### !challenge
 
 * type: short-answer
-* id: e074a8a1-b3be-11e8-9259-b32b810a6dba
+* id: 7acada01-b3bf-11e8-b825-0fe87e3c28a7
 * title: Git Log B
 
 ##### !question

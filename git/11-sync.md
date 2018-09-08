@@ -15,17 +15,18 @@ Paste those two lines into your terminal where your local git repository is. Ref
 
 Watch the following two videos to learn more about how Git and GitHub are related and the commands you can use to synchronize between the two.
 
+
 ## Git Add, Commit, and Push
 
 ### !vimeo
-* id: e07544e0-b3be-11e8-9259-b32b810a6dba
-* !end-vimeo
+* id: 223815936
+### !end-vimeo
 
 ## Git Fetch, Push, and Pull
 
 ### !vimeo
-* id: e07544e1-b3be-11e8-9259-b32b810a6dba
-* !end-vimeo
+* id: 223815938
+### !end-vimeo
 
 ## Challenges
 
@@ -34,7 +35,7 @@ Watch the following two videos to learn more about how Git and GitHub are relate
 ### !challenge
 
 * type: paragraph
-* id: e07544e2-b3be-11e8-9259-b32b810a6dba
+* id: 7acb2820-b3bf-11e8-b825-0fe87e3c28a7
 * title: Git and GitHub
 
 ### !question
@@ -62,7 +63,7 @@ Thanks! An instructor will follow-up if they have any questions.
 ### !challenge
 
 * type: multiple-choice
-* id: e07544e3-b3be-11e8-9259-b32b810a6dba
+* id: 7acb2821-b3bf-11e8-b825-0fe87e3c28a7
 * title: Git Push, Fetch, and Pull A
 
 ### !question
@@ -92,7 +93,7 @@ The `pull` command is the combination of what two other commands?
 ### !challenge
 
 * type: short-answer
-* id: e0756bf0-b3be-11e8-9259-b32b810a6dba
+* id: 7acb2822-b3bf-11e8-b825-0fe87e3c28a7
 * title: Git Push, Fetch, and Pull B
 
 ##### !question

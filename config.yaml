@@ -2,7 +2,7 @@
 Title: Web Fundamentals
 Standards:
   - Title: Development Environment
-    UID: e05efdc0-b3be-11e8-87be-15f22f362e8f
+    UID: 7aaf3bb0-b3bf-11e8-9a05-b358babb11ac
     Description: Customize the command line for increased productivity
     SuccessCriteria:
       - Install and configure the Slack Application
@@ -22,53 +22,53 @@ Standards:
       - Run JavaScript files with node and the repl
     ContentFiles:
       - Type: Lesson
-        UID: e05f24d0-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf3bb1-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/00-overview.md
       - Type: Lesson
-        UID: e05f24d1-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf3bb2-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/01-slack.md
       - Type: Lesson
-        UID: e05f24d2-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf3bb3-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/02-terminal.md
       - Type: Lesson
-        UID: e05f24d3-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf3bb4-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/03-window-management.md
       - Type: Lesson
-        UID: e05f4be0-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62c0-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/04-typing.md
       - Type: Lesson
-        UID: e05f4be1-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62c1-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/05-homebrew.md
       - Type: Lesson
-        UID: e05f4be2-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62c2-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/06-text-editor.md
       - Type: Lesson
-        UID: e05f4be3-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62c3-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/07-node.md
       - Type: Lesson
-        UID: e05f4be4-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62c4-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/08-git.md
       - Type: Lesson
-        UID: e05f4be5-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62c5-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/09-zsh.md
       - Type: Lesson
-        UID: e05f4be6-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62c6-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/10-print.md
       - Type: Lesson
-        UID: e05f4be7-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62c7-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/11-set.md
       - Type: Lesson
-        UID: e05f4be8-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62c8-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/12-browser-console.md
       - Type: Lesson
-        UID: e05f4be9-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62c9-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/13-node.md
       - Type: Checkpoint
-        UID: e05f4bea-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62ca-b3bf-11e8-9a05-b358babb11ac
         Path: /dev-environment/99-checkpoint.md
         Autoscore: false
   - Title: Command Line
-    UID: e05f4beb-b3be-11e8-87be-15f22f362e8f
+    UID: 7aaf62cb-b3bf-11e8-9a05-b358babb11ac
     Description: Navigate & manipulate the file system via the command line
     SuccessCriteria:
       - Traverse the file system using both relative and absolute paths
@@ -80,41 +80,41 @@ Standards:
       - Open and exit Vim
     ContentFiles:
       - Type: Lesson
-        UID: e05f4bec-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62cc-b3bf-11e8-9a05-b358babb11ac
         Path: /command-line/00-overview.md
       - Type: Lesson
-        UID: e05f4bed-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62cd-b3bf-11e8-9a05-b358babb11ac
         Path: /command-line/01-traverse.md
       - Type: Lesson
-        UID: e05f4bee-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62ce-b3bf-11e8-9a05-b358babb11ac
         Path: /command-line/02-manipulate.md
       - Type: Lesson
-        UID: e05f4bef-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62cf-b3bf-11e8-9a05-b358babb11ac
         Path: /command-line/03-wildcard.md
       - Type: Lesson
-        UID: e05f4bf0-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62d0-b3bf-11e8-9a05-b358babb11ac
         Path: /command-line/04-exercise.md
       - Type: Lesson
-        UID: e05f4bf1-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf62d1-b3bf-11e8-9a05-b358babb11ac
         Path: /command-line/05-read.md
       - Type: Lesson
-        UID: e05f4bf2-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89d0-b3bf-11e8-9a05-b358babb11ac
         Path: /command-line/06-combine-commands.md
       - Type: Lesson
-        UID: e05f4bf3-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89d1-b3bf-11e8-9a05-b358babb11ac
         Path: /command-line/07-redirection.md
       - Type: Lesson
-        UID: e05f4bf4-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89d2-b3bf-11e8-9a05-b358babb11ac
         Path: /command-line/08-basic-vim.md
       - Type: Lesson
-        UID: e05f4bf5-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89d3-b3bf-11e8-9a05-b358babb11ac
         Path: /command-line/09-exercise.md
       - Type: Checkpoint
-        UID: e05f4bf6-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89d4-b3bf-11e8-9a05-b358babb11ac
         Path: /command-line/99-checkpoint.md
         Autoscore: false
   - Title: Git
-    UID: e05f4bf7-b3be-11e8-87be-15f22f362e8f
+    UID: 7aaf89d5-b3bf-11e8-9a05-b358babb11ac
     Description: Utilize Git for version control
     SuccessCriteria:
       - Initialize and delete local git repositories
@@ -129,51 +129,51 @@ Standards:
       - Pull new additions from a forked repository
     ContentFiles:
       - Type: Lesson
-        UID: e05f72f0-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89d6-b3bf-11e8-9a05-b358babb11ac
         Path: /git/00-overview.md
       - Type: Lesson
-        UID: e05f72f1-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89d7-b3bf-11e8-9a05-b358babb11ac
         Path: /git/01-git-concepts.md
       - Type: Lesson
-        UID: e05f72f2-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89d8-b3bf-11e8-9a05-b358babb11ac
         Path: /git/02-submitting-assignments.md
       - Type: Lesson
-        UID: e05f72f3-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89d9-b3bf-11e8-9a05-b358babb11ac
         Path: /git/03-exercise.md
       - Type: Lesson
-        UID: e05f72f4-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89da-b3bf-11e8-9a05-b358babb11ac
         Path: /git/04-init-remove.md
       - Type: Lesson
-        UID: e05f72f5-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89db-b3bf-11e8-9a05-b358babb11ac
         Path: /git/05-stage-commit-diff.md
       - Type: Lesson
-        UID: e05f72f6-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89dc-b3bf-11e8-9a05-b358babb11ac
         Path: /git/06-log.md
       - Type: Lesson
-        UID: e05f72f7-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89dd-b3bf-11e8-9a05-b358babb11ac
         Path: /git/07-branches.md
       - Type: Lesson
-        UID: e05f72f8-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89de-b3bf-11e8-9a05-b358babb11ac
         Path: /git/08-feature-branch.md
       - Type: Lesson
-        UID: e05f72f9-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89df-b3bf-11e8-9a05-b358babb11ac
         Path: /git/09-merge.md
       - Type: Lesson
-        UID: e05f72fa-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89e0-b3bf-11e8-9a05-b358babb11ac
         Path: /git/10-exercise.md
       - Type: Lesson
-        UID: e05f72fb-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89e1-b3bf-11e8-9a05-b358babb11ac
         Path: /git/11-sync.md
       - Type: Lesson
-        UID: e05f72fc-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89e2-b3bf-11e8-9a05-b358babb11ac
         Path: /git/12-remotes.md
       - Type: Lesson
-        UID: e05f72fd-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89e3-b3bf-11e8-9a05-b358babb11ac
         Path: /git/13-forking.md
       - Type: Lesson
-        UID: e05f72fe-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
         Path: /git/14-pulling-new-changes.md
       - Type: Checkpoint
-        UID: e05f72ff-b3be-11e8-87be-15f22f362e8f
+        UID: 7aaf89e5-b3bf-11e8-9a05-b358babb11ac
         Path: /git/99-checkpoint.md
         Autoscore: false

@@ -9,7 +9,7 @@ This checkpoint will require you to use what you've learned from the previous le
 ### !challenge
 
 * type: project
-* id: e075e120-b3be-11e8-9259-b32b810a6dba
+* id: 7acb7640-b3bf-11e8-b825-0fe87e3c28a7
 * title: Git and Github
 * standard_uuids: d10aeae0-eb89-4275-b0cd-f59cd8f888fc
 
