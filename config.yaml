@@ -68,10 +68,16 @@ Standards:
         Path: /dev-environment/99-checkpoint.md
         Autoscore: false
   - Title: Command Line
-    UID: e38636c9-b3b0-11e8-8746-5f37e6db2a75
-    Description: placeholder
+    UID: 9a82361d-d881-4983-bafd-7de560e8a7b6
+    Description: Navigate & manipulate the file system via the command line
     SuccessCriteria:
-      - placeholder
+      - Traverse the file system using both relative and absolute paths
+      - 'Create, move, rename, and delete files and directories'
+      - Use the wildcard character to perform complex operations
+      - Read files from the command line
+      - Combine multiple commands
+      - Redirect content from one file or command to another
+      - Open and exit Vim
     ContentFiles:
       - Type: Lesson
         UID: e38636ca-b3b0-11e8-8746-5f37e6db2a75

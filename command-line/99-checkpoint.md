@@ -1,42 +1,49 @@
-# Checkpoint
+# Diving into the Deep End
 
-This checkpoint will require you to use what you've learned from the previous lessons. The goal is to gain mastery over this standard, so take some time, review lessons, and ask for help if you need it!
+You've reached your first project! Congratulations! Projects are opportunities for you to synthesize the skills you've learned throughout all the previous lessons. These projects will likely take you some time and may require you to research new tools and learn new skills.
 
-## Questions
+If you find yourself lost at sea, get in touch with an instructor so that they can help put you back on the right path. We're here to help!
+
+## Instructions
+
+[There's been a murder in Terminal City, and we need your help!](https://github.com/veltman/clmystery)
+
+1. Begin by downloading the above repository as a zip file.
+
+1. Read the instructions as noted in the repository.
+
+1. Do _not_ use text editor to view any of these files. If you cheat, you're only cheating yourself!
+
+1. Answer the following questions including entering who you suspect to be the criminal!
+
+## Project
 
 <!-- Question -->
 
 ### !challenge
 
-* type: multiple-choice
-* id: e3985f30-b3b0-11e8-99a4-573c60b11497
-* title: Slack A
+* type: paragraph
+* id: bdf1cafa-2c7f-4286-a9b1-9fdfd3044505
+* title: Inputs & Outputs
+* standard_uuids: 9a82361d-d881-4983-bafd-7de560e8a7b6
 
-##### !question
+### !question
 
-What will the following do if typed into Slack?
+Wait! Before we start, what are the inputs and outputs for this problem?
 
-```
-_message_
-```
+### !end-question
 
-##### !end-question
+#### !placeholder
 
-##### !options
+Write your answer here
 
-* Bold the word "message"
-* Italicize the word "message"
-* Strike the word "message"
-* Add the word "message" to a block quote
-* Format the word "message" into a code block
+#### !end-placeholder
 
-##### !end-options
+### !explanation
 
-##### !answer
+Thanks! Move on to the next question!
 
-Italicize the word "message"
-
-##### !end-answer
+### !end-explanation
 
 ### !end-challenge
 
@@ -44,71 +51,36 @@ Italicize the word "message"
 
 ### !challenge
 
-* type: multiple-choice
-* id: e3988640-b3b0-11e8-99a4-573c60b11497
-* title: Slack B
+* type: short-answer
+* id: d3df79a2-5a71-4dbc-abba-609f153fb9bb
+* title: Command Line Mystery
+* standard_uuids: 9a82361d-d881-4983-bafd-7de560e8a7b6
 
-##### !question
+### !question
 
-What will the following do if typed into Slack?
+Got your Pomodoro application started? Have you closed unnecessary tabs and programs? Now get to work on solving the Command Line Mystery!
 
-```
-> message
-```
+Enter the name of the culprit below.
 
-##### !end-question
+### !end-question
 
-##### !options
+#### !placeholder
 
-* Bold the word "message"
-* Italicize the word "message"
-* Strike the word "message"
-* Add the word "message" to a block quote
-* Format the word "message" into a code block
+Whodunnit?
 
-##### !end-options
+#### !end-placeholder
 
-##### !answer
+### !answer
 
-Add the word "message" to a block quote
+/jeremy bowers/i
 
-##### !end-answer
+### !end-answer
 
-### !end-challenge
+##### !explanation
 
-<!-- Question -->
+Correct! Fantastic job getting the solution. Move on to the final part.
 
-### !challenge
-
-* type: multiple-choice
-* id: e3988641-b3b0-11e8-99a4-573c60b11497
-* title: Slack C
-
-##### !question
-
-What will the following do if typed into Slack?
-
-```
-`message`
-```
-
-##### !end-question
-
-##### !options
-
-* Bold the word "message"
-* Italicize the word "message"
-* Strike the word "message"
-* Add the word "message" to a block quote
-* Format the word "message" into a code block
-
-##### !end-options
-
-##### !answer
-
-Format the word "message" into a code block
-
-##### !end-answer
+##### !end-explanation
 
 ### !end-challenge
 
@@ -116,329 +88,31 @@ Format the word "message" into a code block
 
 ### !challenge
 
-* type: multiple-choice
-* id: e3988642-b3b0-11e8-99a4-573c60b11497
-* title: Terminal A
-* standard_uuids: WD-BA4JCwkDBAY
+* type: paragraph
+* id: fb7989a3-06ce-46d8-b8b8-ba1c28d2d606
+* title: Reflect
+* standard_uuids: 9a82361d-d881-4983-bafd-7de560e8a7b6
 
-##### !question
+### !question
 
-What keyboard shortcut will create a new tab in your terminal program?
+Take a few minutes to reflect back on what you learned. Below, reflect back on the process considering the following:
 
-##### !end-question
+* What do I better understand now?
+* What would I do differently next time?
+* What do I need practice more and how will I get that practice?
 
-##### !options
+### !end-question
 
-* ⌘ + N
-* ⌘ + T
-* ⌘ + Q
-* ⌘ + W
+#### !placeholder
 
-##### !end-options
+Write your answer here
 
-##### !answer
+#### !end-placeholder
 
-⌘ + T
+### !explanation
 
-##### !end-answer
+Thanks! Congratulations on completing the first project.
 
-### !end-challenge
-
-<!-- Question -->
-
-### !challenge
-
-* type: multiple-choice
-* id: e3988643-b3b0-11e8-99a4-573c60b11497
-* title: Terminal B
-* standard_uuids: WD-BA4JCwkDBAY
-
-##### !question
-
-What keyboard shortcut will close a single tab in your terminal program?
-
-##### !end-question
-
-##### !options
-
-* ⌘ + N
-* ⌘ + T
-* ⌘ + Q
-* ⌘ + W
-
-##### !end-options
-
-##### !answer
-
-⌘ + W
-
-##### !end-answer
-
-### !end-challenge
-
-<!-- Question -->
-
-### !challenge
-
-* type: multiple-choice
-* id: e3988644-b3b0-11e8-99a4-573c60b11497
-* title: Homebrew A
-* standard_uuids: WD-BA4JCwkDBAY
-
-##### !question
-
-How do you list all the packages you've installed with the `brew` command?
-
-##### !end-question
-
-##### !options
-
-* `brew info`
-* `brew list`
-* `brew services`
-* `brew update`
-* `brew upgrade`
-
-##### !end-options
-
-##### !answer
-
-`brew list`
-
-##### !end-answer
-
-### !end-challenge
-
-<!-- Question -->
-
-### !challenge
-
-* type: multiple-choice
-* id: e398ad50-b3b0-11e8-99a4-573c60b11497
-* title: Homebrew B
-* standard_uuids: WD-BA4JCwkDBAY
-
-##### !question
-
-How do you fetch the newest version of Homebrew and all associated packages?
-
-##### !end-question
-
-##### !options
-
-* `brew info`
-* `brew list`
-* `brew services`
-* `brew update`
-* `brew upgrade`
-
-##### !end-options
-
-##### !answer
-
-`brew update`
-
-##### !end-answer
-
-### !end-challenge
-
-<!-- Question -->
-
-### !challenge
-
-* type: multiple-choice
-* id: e398ad51-b3b0-11e8-99a4-573c60b11497
-* title: Homebrew C
-* standard_uuids: WD-BA4JCwkDBAY
-
-##### !question
-
-How do you install new versions of all your installed packages with Homebrew?
-
-##### !end-question
-
-##### !options
-
-* `brew info`
-* `brew list`
-* `brew services`
-* `brew update`
-* `brew upgrade`
-
-##### !end-options
-
-##### !answer
-
-`brew upgrade`
-
-##### !end-answer
-
-### !end-challenge
-
-<!-- Question -->
-
-### !challenge
-
-* type: multiple-choice
-* id: e398ad52-b3b0-11e8-99a4-573c60b11497
-* title: Command Line Programs A
-* standard_uuids: WD-BA4JCwkDBAY
-
-##### !question
-
-What do you type into the command line to open the `node` REPL?
-
-##### !end-question
-
-##### !options
-
-* `atom`
-* `atom .`
-* `atom <filename>`
-* `atom ~/.zshrc`
-* `node`
-* `node .`
-* `node <filename>`
-
-##### !end-options
-
-##### !answer
-
-`node`
-
-##### !end-answer
-
-### !end-challenge
-
-<!-- Question -->
-
-### !challenge
-
-* type: multiple-choice
-* id: e398ad53-b3b0-11e8-99a4-573c60b11497
-* title: Command Line Programs B
-* standard_uuids: WD-BA4JCwkDBAY
-
-##### !question
-
-What do you type into the command line to open a specific file with Atom?
-
-##### !end-question
-
-##### !options
-
-* `atom`
-* `atom .`
-* `atom <filename>`
-* `atom ~/.zshrc`
-* `node`
-* `node .`
-* `node <filename>`
-
-##### !end-options
-
-##### !answer
-
-`atom <filename>`
-
-##### !end-answer
-
-### !end-challenge
-
-<!-- Question -->
-
-### !challenge
-
-* type: multiple-choice
-* id: e398ad54-b3b0-11e8-99a4-573c60b11497
-* title: Command Line Programs C
-* standard_uuids: WD-BA4JCwkDBAY
-
-##### !question
-
-What do you type into the command line to open the Zsh configuration file?
-
-##### !end-question
-
-##### !options
-
-* `atom`
-* `atom .`
-* `atom <filename>`
-* `atom ~/.zshrc`
-* `node`
-* `node .`
-* `node <filename>`
-
-##### !end-options
-
-##### !answer
-
-`atom ~/.zshrc`
-
-##### !end-answer
-
-### !end-challenge
-
-<!-- Question -->
-
-### !challenge
-
-* type: multiple-choice
-* id: e398ad55-b3b0-11e8-99a4-573c60b11497
-* title: Environment A
-* standard_uuids: WD-BA4JCwkDBAY
-
-##### !question
-
-How can you print out your Zsh theme on the command line?
-
-##### !end-question
-
-##### !options
-
-* `echo zsh`
-* `echo ZSH_THEME`
-* `echo $ZSH_THEME`
-* `echo ~/.zshrc`
-
-##### !end-options
-
-##### !answer
-
-`echo $ZSH_THEME`
-
-##### !end-answer
-
-### !end-challenge
-
-<!-- Question -->
-
-### !challenge
-
-* type: multiple-choice
-* id: e398ad56-b3b0-11e8-99a4-573c60b11497
-* title: Environment B
-* standard_uuids: WD-BA4JCwkDBAY
-
-##### !question
-
-How can you print out your user name?
-
-##### !end-question
-
-##### !options
-
-* `echo user`
-* `echo USER`
-* `echo $USER`
-
-##### !end-options
-
-##### !answer
-
-`echo $USER`
-
-##### !end-answer
+### !end-explanation
 
 ### !end-challenge
