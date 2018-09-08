@@ -117,7 +117,7 @@ rm ~/Desktop/test.js
 ### !challenge
 
 * type: multiple-choice
-* id: 674b1200-b3ac-11e8-915f-356011408914
+* id: 3869ebe0-b3ad-11e8-9e59-fdef184d96cc
 * title: Node REPL
 
 ### !question

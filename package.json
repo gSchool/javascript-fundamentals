@@ -4,7 +4,7 @@
   "description": "",
   "main": "update_uids.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update-uids": "node update_uids.js && node update_project_uids.js"
   },
   "repository": {
     "type": "git",

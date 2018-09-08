@@ -38,7 +38,7 @@ Now every subsequent window you open will have access to the `$GALVANIZE_LOCATIO
 ### !challenge
 
 * type: paragraph
-* id: 674ee290-b3ac-11e8-915f-356011408914
+* id: 386a6110-b3ad-11e8-9e59-fdef184d96cc
 * title: Environment Variables
 
 ### !question

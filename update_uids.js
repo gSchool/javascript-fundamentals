@@ -8,7 +8,6 @@ for(let i = 0; i<data.length - 3; i++){
     let current = i + 5;
 
     while(data[current]!= ' '){
-      console.log(data[current])
       current++;
     }
     let newUid = uuidv1();
@@ -18,3 +17,4 @@ for(let i = 0; i<data.length - 3; i++){
 }
 
 fs.writeFileSync('./config.yaml', data);
+console.log("UPDATED config.yaml");

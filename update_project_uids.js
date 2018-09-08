@@ -12,7 +12,6 @@ for(let k = 0; k<directories.length; k++){
         let current = i + 6;
 
         while(data[current]!= ' '){
-          console.log(data[current])
           current++;
         }
         let newUid = uuidv1();
@@ -22,5 +21,6 @@ for(let k = 0; k<directories.length; k++){
     }
 
     fs.writeFileSync(fullPath, data);
+    console.log(`UPDATED ${fullPath}`)
   }
 }
