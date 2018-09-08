@@ -68,6 +68,7 @@ Standards:
         Path: /dev-environment/99-checkpoint.md
         Autoscore: false
   - Title: Command Line
+    UID: ba78d9c0-b3a8-11e8-85c6-85b9be4b4a34
     Description: placeholder
     SuccessCriteria:
       - placeholder
