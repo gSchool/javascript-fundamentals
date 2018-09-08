@@ -1,11 +1,8 @@
-# Git Primer
+# Git
 
 ### !vimeo
 * id: 257557705
 ### !end-vimeo
-
-## Standard
-By the end of this unit, you will be able to _use Git to submit assignments to Galvanize_. You'll know you're ready to move on when you've passed this unit's [checkpoint](./checkpoint.md).
 
 ## Unit overview
 
