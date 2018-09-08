@@ -18,7 +18,7 @@ Let's start by building some common functions that use the accumulator pattern. 
 
 * type: code-snippet
 * language: javascript
-* id: E2ECC90F-58AF-4ACD-9DDB-844FEF90B5E2
+* id: 3040d530-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Join
 
 ### !question
@@ -96,7 +96,7 @@ describe('join function', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 91016197-79d6-46e1-b75b-9f5468a261d2
+* id: 3040fc40-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Left Pad
 
 ### !question
@@ -187,7 +187,7 @@ describe('leftPad function', function() {
 
 * type: code-snippet
 * language: javascript
-* id: cd61f855-be52-4371-a54c-d080a807118e
+* id: 3040fc41-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Right Pad
 
 ### !question
@@ -256,7 +256,7 @@ describe('rightPad function', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 8b69ec71-f4a1-493b-8b28-99b8b1d508c1
+* id: 3040fc42-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Sum
 
 ### !question
@@ -318,7 +318,7 @@ describe('sum function', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 84f556ce-74d6-4f2c-bf8a-eed1f11451de
+* id: 30412350-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Average
 
 ### !question

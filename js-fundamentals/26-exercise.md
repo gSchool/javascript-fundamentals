@@ -10,7 +10,7 @@ This exercise will require you to use what you've learned from the previous less
 
 * type: code-snippet
 * language: javascript
-* id: BB49300F-B507-4CC5-B1A4-C8D40283A1E7
+* id: 303ed961-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Functions Exercise A
 * standard_uuids: WD-CAYKDAkEDQ4
 
@@ -72,7 +72,7 @@ describe('intenseString', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 69803030-E0EF-46AF-B064-B2D25B81F83D
+* id: 303ed962-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Functions Exercise Mean
 * standard_uuids: WD-CAYKDAkEDQ4
 
@@ -113,7 +113,7 @@ describe('mean function', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 5D8D2429-0052-45A7-8DF2-22CF44A60A51
+* id: 303f0070-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Functions Exercise median
 * standard_uuids: WD-CAYKDAkEDQ4
 
@@ -157,7 +157,7 @@ describe('median function', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 9D977B3B-1C84-4F81-838F-A977D612ED6D
+* id: 303f0071-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Functions Exercise Mode
 * standard_uuids: WD-CAYKDAkEDQ4
 

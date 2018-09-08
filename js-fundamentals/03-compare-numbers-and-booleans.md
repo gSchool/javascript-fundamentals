@@ -155,7 +155,7 @@ false
 ### !challenge
 
 * type: multiple-choice
-* id: 01CBB9B7-D93B-4C92-A8DF-51EFC11C7DQR
+* id: 30373840-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Complex Boolean Statements
 
 ##### !question
@@ -195,7 +195,7 @@ Because both sides of the logical operator `&&` must be `true` in order for the 
 ### !challenge
 
 * type: multiple-choice
-* id: DF7189F3-E2CE-4367-B7B4-6B5D4AD6D3F0
+* id: 30373841-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Greater Than
 
 ##### !question
@@ -234,7 +234,7 @@ The numbers are evaluated before the comparison is done.
 ### !challenge
 
 * type: multiple-choice
-* id: 2F3E2683-017E-4D5D-BCBE-E1A70DA12767
+* id: 30373842-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Greater Than
 
 ##### !question
@@ -273,7 +273,7 @@ The numbers are evaluated before the comparison is done, even without parenthesi
 ### !challenge
 
 * type: multiple-choice
-* id: 20818BA1-764D-4F49-8CBE-563BFEBE5197
+* id: 30373843-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Compare expressions
 
 ##### !question
@@ -314,7 +314,7 @@ Even though we used the same type AND didn't strictly compare, because one strin
 ### !challenge
 
 * type: multiple-choice
-* id: A032D35B-3AB6-45A3-9C60-5F716925DC69
+* id: 30375f50-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Compare expressions
 
 ##### !question
@@ -354,7 +354,7 @@ Because we compared type with a strict comparison operator, though they are both
 ### !challenge
 
 * type: multiple-choice
-* id: 6B21B6CD-B773-4F46-9DC2-A3F315E4D7DD
+* id: 30375f51-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Compare expressions
 
 ##### !question
@@ -394,7 +394,7 @@ We didn't compare type this time, and so 0 is equal to "0".
 ### !challenge
 
 * type: short-answer
-* id: 8f7bce44-4230-4137-a3b8-84e61b2423a6
+* id: 30375f52-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Evaluate Math operations with Operators
 
 ##### !question
@@ -426,7 +426,7 @@ The second statement, `11 % 3 === 2` will return `true`. At that point, because 
 ### !challenge
 
 * type: short-answer
-* id: 53711db0-eba6-48e2-8851-1504b85c9728
+* id: 30375f53-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Evaluate Math operations with Operators
 
 ##### !question

@@ -70,7 +70,7 @@ let data = {
 ### !challenge
 
 * type: short-answer
-* id: dep-73ab7bba-81d7-4879-8fd5-d52cdababce1
+* id: 303cb680-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Accessing Nested Values A
 
 ##### !question
@@ -102,7 +102,7 @@ Write JavaScript statement here...
 ### !challenge
 
 * type: short-answer
-* id: dep-38519656-e243-48cb-804f-e0629ec82bf7
+* id: 303cb681-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Accessing Nested Values B
 
 ##### !question
@@ -134,7 +134,7 @@ Write JavaScript statement here...
 ### !challenge
 
 * type: short-answer
-* id: dep-09bae7f9-1f7b-4016-97c2-0724ff20ba72
+* id: 303cb682-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Accessing Nested Values C
 
 ##### !question
@@ -166,7 +166,7 @@ Write JavaScript statement here...
 ### !challenge
 
 * type: short-answer
-* id: dep-9d12c85d-dd30-436d-8a52-a1530eaddc43
+* id: 303cb683-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Accessing Nested Values D
 
 ##### !question

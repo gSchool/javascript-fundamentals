@@ -22,7 +22,7 @@ are more or less interchangeable with function expressions.
 
 * type: code-snippet
 * language: javascript
-* id: 15CA328E-CD08-454D-8D44-642FDD89BA09
+* id: 303e8b40-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Function Declarations
 
 ### !question

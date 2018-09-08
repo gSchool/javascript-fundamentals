@@ -25,7 +25,7 @@ feel free to browse through some of the other methods as well!
 
 * type: code-snippet
 * language: javascript
-* id: 3C4FE04C-86BE-4107-AB1B-B84445467B40
+* id: 303c4150-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Create Undefined Variables
 
 ### !question

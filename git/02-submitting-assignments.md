@@ -12,9 +12,8 @@ _By the end of this lesson, you will be able to:_
 
 ### !vimeo
 
-* id: 258182715
-
-### !end-vimeo
+* id: 3031ba00-b3c3-11e8-9ceb-f1ccefb688fa
+* !end-vimeo
 
 ## Install Git
 
@@ -94,7 +93,7 @@ Make sure it's on https://github.com/ and not on your company's Github Enterpris
 
 ### !challenge
 * type: short-answer
-* id: 7aca8be1-b3bf-11e8-b825-0fe87e3c28a7
+* id: 3031ba01-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Question 1
 
 ##### !question
@@ -118,7 +117,7 @@ git ...
 
 ### !challenge
 * type: short-answer
-* id: 7aca8be2-b3bf-11e8-b825-0fe87e3c28a7
+* id: 3031ba02-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Question 2
 
 ##### !question
@@ -142,7 +141,7 @@ While there are other ways to add, `git add -A` is the only one you'll need for 
 
 ### !challenge
 * type: short-answer
-* id: 7aca8be3-b3bf-11e8-b825-0fe87e3c28a7
+* id: 3031ba03-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Question 3
 
 ##### !question
@@ -165,7 +164,7 @@ git ...
 
 ### !challenge
 * type: short-answer
-* id: 7aca8be4-b3bf-11e8-b825-0fe87e3c28a7
+* id: 3031ba04-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Question 4
 
 ##### !question
@@ -188,7 +187,7 @@ git ...
 
 ### !challenge
 * type: short-answer
-* id: 7aca8be5-b3bf-11e8-b825-0fe87e3c28a7
+* id: 3031ba05-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Question 5
 
 ##### !question

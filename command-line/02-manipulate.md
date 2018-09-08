@@ -142,7 +142,7 @@ $ cp foldername foldername2
 ### !challenge
 
 * type: short-answer
-* id: 7ac24e80-b3bf-11e8-b825-0fe87e3c28a7
+* id: 30297ca0-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Create Directory
 
 ##### !question
@@ -170,7 +170,7 @@ Correct! Use the `mkdir` command to create directories (folders). `mkdir` is sho
 ### !challenge
 
 * type: short-answer
-* id: 7ac24e81-b3bf-11e8-b825-0fe87e3c28a7
+* id: 30297ca1-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Deleting Files
 
 ##### !question
@@ -198,7 +198,7 @@ Correct! Use the rm command followed by a filename to remove/delete files.
 ### !challenge
 
 * type: short-answer
-* id: 7ac27590-b3bf-11e8-b825-0fe87e3c28a7
+* id: 30297ca2-b3c3-11e8-9ceb-f1ccefb688fa
 * title: Creating Files
 
 ##### !question
