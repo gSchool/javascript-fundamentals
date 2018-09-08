@@ -2,7 +2,7 @@
 Title: Web Fundamentals
 Standards:
   - Title: Development Environment
-    UID: e385e8a0-b3b0-11e8-8746-5f37e6db2a75
+    UID: c0c61270-b3bc-11e8-8400-8fa12c0e7500
     Description: Customize the command line for increased productivity
     SuccessCriteria:
       - Install and configure the Slack Application
@@ -22,53 +22,53 @@ Standards:
       - Run JavaScript files with node and the repl
     ContentFiles:
       - Type: Lesson
-        UID: e3860fb0-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c61271-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/00-overview.md
       - Type: Lesson
-        UID: e3860fb1-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c61272-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/01-slack.md
       - Type: Lesson
-        UID: e3860fb2-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c61273-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/02-terminal.md
       - Type: Lesson
-        UID: e3860fb3-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c61274-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/03-window-management.md
       - Type: Lesson
-        UID: e3860fb4-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c63980-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/04-typing.md
       - Type: Lesson
-        UID: e3860fb5-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c63981-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/05-homebrew.md
       - Type: Lesson
-        UID: e38636c0-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c63982-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/06-text-editor.md
       - Type: Lesson
-        UID: e38636c1-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c63983-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/07-node.md
       - Type: Lesson
-        UID: e38636c2-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c63984-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/08-git.md
       - Type: Lesson
-        UID: e38636c3-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c63985-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/09-zsh.md
       - Type: Lesson
-        UID: e38636c4-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c63986-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/10-print.md
       - Type: Lesson
-        UID: e38636c5-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c63987-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/11-set.md
       - Type: Lesson
-        UID: e38636c6-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c63988-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/12-browser-console.md
       - Type: Lesson
-        UID: e38636c7-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c63989-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/13-node.md
       - Type: Checkpoint
-        UID: e38636c8-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c6398a-b3bc-11e8-8400-8fa12c0e7500
         Path: /dev-environment/99-checkpoint.md
         Autoscore: false
   - Title: Command Line
-    UID: 9a82361d-d881-4983-bafd-7de560e8a7b6
+    UID: c0c6398b-b3bc-11e8-8400-8fa12c0e7500
     Description: Navigate & manipulate the file system via the command line
     SuccessCriteria:
       - Traverse the file system using both relative and absolute paths
@@ -80,36 +80,36 @@ Standards:
       - Open and exit Vim
     ContentFiles:
       - Type: Lesson
-        UID: e38636ca-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c66090-b3bc-11e8-8400-8fa12c0e7500
         Path: /command-line/00-overview.md
       - Type: Lesson
-        UID: e38636cb-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c66091-b3bc-11e8-8400-8fa12c0e7500
         Path: /command-line/01-traverse.md
       - Type: Lesson
-        UID: e38636cc-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c66092-b3bc-11e8-8400-8fa12c0e7500
         Path: /command-line/02-manipulate.md
       - Type: Lesson
-        UID: e38636cd-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c66093-b3bc-11e8-8400-8fa12c0e7500
         Path: /command-line/03-wildcard.md
       - Type: Lesson
-        UID: e38636ce-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c66094-b3bc-11e8-8400-8fa12c0e7500
         Path: /command-line/04-exercise.md
       - Type: Lesson
-        UID: e38636cf-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c66095-b3bc-11e8-8400-8fa12c0e7500
         Path: /command-line/05-read.md
       - Type: Lesson
-        UID: e3865dd0-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c66096-b3bc-11e8-8400-8fa12c0e7500
         Path: /command-line/06-combine-commands.md
       - Type: Lesson
-        UID: e3865dd1-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c66097-b3bc-11e8-8400-8fa12c0e7500
         Path: /command-line/07-redirection.md
       - Type: Lesson
-        UID: e3865dd2-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c66098-b3bc-11e8-8400-8fa12c0e7500
         Path: /command-line/08-basic-vim.md
       - Type: Lesson
-        UID: e3865dd3-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c66099-b3bc-11e8-8400-8fa12c0e7500
         Path: /command-line/09-exercise.md
       - Type: Checkpoint
-        UID: e3865dd4-b3b0-11e8-8746-5f37e6db2a75
+        UID: c0c6609a-b3bc-11e8-8400-8fa12c0e7500
         Path: /command-line/99-checkpoint.md
         Autoscore: false
