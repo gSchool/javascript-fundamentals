@@ -1,4 +1,4 @@
-# Checkpoint
+# File Navigation Exercise
 
 This checkpoint will require you to use what you've learned from the previous lessons. The goal is to gain mastery over this standard, so take some time, review lessons, and ask for help if you need it!
 
@@ -9,7 +9,7 @@ This checkpoint will require you to use what you've learned from the previous le
 ### !challenge
 
 * type: short-answer
-* id: 38641f80-b3ad-11e8-9e59-fdef184d96cc
+* id: 58f1ebb6-c484-4d57-a334-621a01fe1ee0
 * title: Directory Navigation
 * standard_uuids: WD-CAIAAAwKAAs
 
@@ -38,7 +38,7 @@ Correct! The `cd` command followed by `..` navigates you up one level.
 ### !challenge
 
 * type: short-answer
-* id: 38641f81-b3ad-11e8-9e59-fdef184d96cc
+* id: 0a212d57-e11a-440b-a7c4-579e01030e6d
 * title: Command Options
 * standard_uuids: WD-CAIAAAwKAAs
 
@@ -67,7 +67,7 @@ Correct! Options come after the dash in a command.
 ### !challenge
 
 * type: short-answer
-* id: 38644690-b3ad-11e8-9e59-fdef184d96cc
+* id: 636570b6-147a-474d-ad4a-7c50ede8e8e8
 * title: Copying Files
 * standard_uuids: WD-CAIAAAwKAAs
 
@@ -96,7 +96,7 @@ Correct! Use the `cp` command followed by the path of the file you want to copy,
 ### !challenge
 
 * type: short-answer
-* id: 38644691-b3ad-11e8-9e59-fdef184d96cc
+* id: 3a3d823b-c96f-43b1-9fca-bcc9643e0d30
 * title: Renaming Files
 * standard_uuids: WD-CAIAAAwKAAs
 
@@ -125,7 +125,7 @@ Correct! Use the `mv` command followed by the file you want to rename, then it's
 ### !challenge
 
 * type: short-answer
-* id: 38644692-b3ad-11e8-9e59-fdef184d96cc
+* id: 8c66754b-b81f-4534-9151-bb91553f79ae
 * title: Deleting Folders
 * standard_uuids: WD-CAIAAAwKAAs
 
