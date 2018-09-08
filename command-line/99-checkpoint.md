@@ -11,7 +11,6 @@ This checkpoint will require you to use what you've learned from the previous le
 * type: multiple-choice
 * id: 38646da0-b3ad-11e8-9e59-fdef184d96cc
 * title: Slack A
-* standard_uuids: WD-BA4JCwkDBAY
 
 ##### !question
 
@@ -48,7 +47,6 @@ Italicize the word "message"
 * type: multiple-choice
 * id: 38646da1-b3ad-11e8-9e59-fdef184d96cc
 * title: Slack B
-* standard_uuids: WD-BA4JCwkDBAY
 
 ##### !question
 
@@ -85,7 +83,6 @@ Add the word "message" to a block quote
 * type: multiple-choice
 * id: 38646da2-b3ad-11e8-9e59-fdef184d96cc
 * title: Slack C
-* standard_uuids: WD-BA4JCwkDBAY
 
 ##### !question
 

@@ -1,7 +1,6 @@
 # File Navigation Exercise
 
-This checkpoint will require you to use what you've learned from the previous lessons. The goal is to gain mastery over this standard, so take some time, review lessons, and ask for help if you need it!
-
+This exercise will require you to use what you've learned from the previous lessons.
 ## Questions
 
 <!-- Question -->
@@ -11,7 +10,6 @@ This checkpoint will require you to use what you've learned from the previous le
 * type: short-answer
 * id: 58f1ebb6-c484-4d57-a334-621a01fe1ee0
 * title: Directory Navigation
-* standard_uuids: WD-CAIAAAwKAAs
 
 ##### !question
 
@@ -40,7 +38,6 @@ Correct! The `cd` command followed by `..` navigates you up one level.
 * type: short-answer
 * id: 0a212d57-e11a-440b-a7c4-579e01030e6d
 * title: Command Options
-* standard_uuids: WD-CAIAAAwKAAs
 
 ##### !question
 
@@ -69,7 +66,6 @@ Correct! Options come after the dash in a command.
 * type: short-answer
 * id: 636570b6-147a-474d-ad4a-7c50ede8e8e8
 * title: Copying Files
-* standard_uuids: WD-CAIAAAwKAAs
 
 ##### !question
 
@@ -98,7 +94,6 @@ Correct! Use the `cp` command followed by the path of the file you want to copy,
 * type: short-answer
 * id: 3a3d823b-c96f-43b1-9fca-bcc9643e0d30
 * title: Renaming Files
-* standard_uuids: WD-CAIAAAwKAAs
 
 ##### !question
 
@@ -127,7 +122,6 @@ Correct! Use the `mv` command followed by the file you want to rename, then it's
 * type: short-answer
 * id: 8c66754b-b81f-4534-9151-bb91553f79ae
 * title: Deleting Folders
-* standard_uuids: WD-CAIAAAwKAAs
 
 ##### !question
 
