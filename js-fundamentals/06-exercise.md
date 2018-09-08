@@ -1,6 +1,6 @@
-# Checkpoint
+# Exercise
 
-This checkpoint will require you to use what you've learned from the previous lessons. The goal is to gain mastery over this standard, so take some time, review lessons, and ask for help if you need it!
+This exercise will require you to use what you've learned from the previous lessons.
 
 ## Questions
 
@@ -11,8 +11,7 @@ This checkpoint will require you to use what you've learned from the previous le
 * type: code-snippet
 * language: javascript
 * id: c8ea5740-07aa-4c06-bd6b-938a581c84a3
-* title: Primitive Types Checkpoint A
-* standard_uuids: WD-DgkEAAUBDwM
+* title: Primitive Types Exercise A
 
 ### !question
 
@@ -120,8 +119,7 @@ describe('Madlib Game A', function () {
 * type: code-snippet
 * language: javascript
 * id: c310d502-9c87-4e42-a989-686e0cf5f465
-* title: Primitive Types Checkpoint B
-* standard_uuids: WD-DgkEAAUBDwM
+* title: Primitive Types Exercise B
 
 ### !question
 

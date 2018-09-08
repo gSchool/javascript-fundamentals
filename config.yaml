@@ -242,25 +242,25 @@ Standards:
         Path: /js-fundamentals/06-exercise.md
       - Type: Lesson
         UID: 7aaf89dd-b3bf-11e8-9a05-b358babb11ac
-        Path: /js-fundamentals/07-branches.md
+        Path: /js-fundamentals/07-create-arrays.md
       - Type: Lesson
         UID: 7aaf89de-b3bf-11e8-9a05-b358babb11ac
-        Path: /js-fundamentals/08-feature-branch.md
+        Path: /js-fundamentals/08-access-arrays.md
       - Type: Lesson
         UID: 7aaf89df-b3bf-11e8-9a05-b358babb11ac
-        Path: /js-fundamentals/09-merge.md
+        Path: /js-fundamentals/09-native-array-methods.md
       - Type: Lesson
         UID: 7aaf89e0-b3bf-11e8-9a05-b358babb11ac
-        Path: /js-fundamentals/10-exercise.md
+        Path: /js-fundamentals/10-create-objects.md
       - Type: Lesson
         UID: 7aaf89e1-b3bf-11e8-9a05-b358babb11ac
-        Path: /js-fundamentals/11-sync.md
+        Path: /js-fundamentals/11-access-objects.md
       - Type: Lesson
         UID: 7aaf89e2-b3bf-11e8-9a05-b358babb11ac
-        Path: /js-fundamentals/12-remotes.md
+        Path: /js-fundamentals/12-nested-structures.md
       - Type: Lesson
         UID: 7aaf89e3-b3bf-11e8-9a05-b358babb11ac
-        Path: /js-fundamentals/13-forking.md
+        Path: /js-fundamentals/13-exercise.md
       - Type: Lesson
         UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
         Path: /js-fundamentals/14-pulling-new-changes.md
