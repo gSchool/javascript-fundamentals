@@ -5,7 +5,7 @@
   "main": "update_uids.js",
   "scripts": {
     "update-uids": "node update_uids.js && node update_project_uids.js",
-    "push-changes": "git add . && git commit -m '--msg' && git push origin phx-updates"
+    "push-changes": "git add . && git commit -m 'process.env.msg' && git push origin phx-updates"
   },
   "repository": {
     "type": "git",
