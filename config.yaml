@@ -300,6 +300,15 @@ Standards:
       - Type: Lesson
         UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
         Path: /js-fundamentals/26-exercise.md
+      - Type: Lesson
+        UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/27-accumulator-parts.md
+      - Type: Lesson
+        UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/28-accumulator-uses.md
+      - Type: Lesson
+        UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/29-more-accumulator-uses.md
       - Type: Checkpoint
         UID: 7aaf89e5-b3bf-11e8-9a05-b358babb11ac
         Path: /js-fundamentals/99-checkpoint.md
