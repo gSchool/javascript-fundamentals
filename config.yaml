@@ -279,6 +279,27 @@ Standards:
       - Type: Lesson
         UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
         Path: /js-fundamentals/19-exercise.md
+      - Type: Lesson
+        UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/20-expressions.md
+      - Type: Lesson
+        UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/21-declarations.md
+      - Type: Lesson
+        UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/22-return-values.md
+      - Type: Lesson
+        UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/23-side-effects.md
+      - Type: Lesson
+        UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/24-multiple-params.md
+      - Type: Lesson
+        UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/25-calls-within-calls.md
+      - Type: Lesson
+        UID: 7aaf89e4-b3bf-11e8-9a05-b358babb11ac
+        Path: /js-fundamentals/26-exercise.md
       - Type: Checkpoint
         UID: 7aaf89e5-b3bf-11e8-9a05-b358babb11ac
         Path: /js-fundamentals/99-checkpoint.md
