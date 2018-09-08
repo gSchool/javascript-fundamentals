@@ -65,7 +65,7 @@ The `mv` command can act as a tool to rename or move folders. A rename is essent
 
 `$ mv folder-name new-folder-name`
 
-The first argument is the _current_ folder location. The second is the _destination_ for the folder. Each of these arguments are paths to the folders from your current directly. Make sure you understand how [paths](../subtrees/productivity-curriculum/Command%20Line/Paths.md) work when using the `mv` command.
+The first argument is the _current_ folder location. The second is the _destination_ for the folder. Each of these arguments are paths to the folders from your current directly. Make sure you understand how [paths](./subtrees/Paths.md) work when using the `mv` command.
 
 There are some caveats to the `mv` command when renaming to a location that previously exists. Please see [this Q&A](https://askubuntu.com/questions/56326/how-do-i-rename-a-directory-via-the-command-line) for more info.
 
@@ -77,7 +77,7 @@ Using the `mv` command we can rename or move files. A rename and move performed 
 
 `$ mv filename.txt new_filename.txt`
 
-The first argument is the _current_ file location. The second is the _destination_ for the file. Each of these arguments are paths to the files from your current directly. Make sure you understand how [paths](../subtrees/productivity-curriculum/Command%20Line/Paths.md) work when using the `mv` command.
+The first argument is the _current_ file location. The second is the _destination_ for the file. Each of these arguments are paths to the files from your current directly. Make sure you understand how [paths](./subtrees/Paths.md) work when using the `mv` command.
 
 A move would look the same but probably inlcude a path to another folder.
 
