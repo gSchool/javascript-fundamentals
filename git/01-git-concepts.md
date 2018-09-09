@@ -11,11 +11,10 @@ _By the end of this lesson, you will be able to define and describe the followin
 1. Pushing / Pulling
 1. Forking
 
-
 ### !vimeo
+* id: 257610077
 
-* id: 303192f0-b3c3-11e8-9ceb-f1ccefb688fa
-* !end-vimeo
+### !end-vimeo
 
 
 ## Git
@@ -56,7 +55,7 @@ On Github, when you **fork** a repository, you create a personal copy of that re
 
 ### !challenge
 * type: multiple-choice
-* id: 303192f1-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b229f0-b3c3-11e8-884e-0102c2c4839e
 * title: Question 1
 
 ##### !question
@@ -82,7 +81,7 @@ https://help.github.com/articles/fork-a-repo/
 
 ### !challenge
 * type: multiple-choice
-* id: 303192f2-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b229f1-b3c3-11e8-884e-0102c2c4839e
 * title: Question 2
 
 ##### !question
@@ -109,7 +108,7 @@ https://help.github.com/articles/cloning-a-repository/
 
 ### !challenge
 * type: multiple-choice
-* id: 303192f3-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b229f2-b3c3-11e8-884e-0102c2c4839e
 * title: Question 3
 
 ##### !question
@@ -136,7 +135,7 @@ https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command
 
 ### !challenge
 * type: multiple-choice
-* id: 303192f4-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b229f3-b3c3-11e8-884e-0102c2c4839e
 * title: Question 4
 
 ##### !question

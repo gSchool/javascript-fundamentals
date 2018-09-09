@@ -10,7 +10,7 @@ This exercise will require you to use what you've learned from the previous less
 
 * type: code-snippet
 * language: javascript
-* id: 30390d00-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b648a1-b3c3-11e8-884e-0102c2c4839e
 * title: Primitive Types Exercise A
 
 ### !question
@@ -118,7 +118,7 @@ describe('Madlib Game A', function () {
 
 * type: code-snippet
 * language: javascript
-* id: 30393410-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b66fb0-b3c3-11e8-884e-0102c2c4839e
 * title: Primitive Types Exercise B
 
 ### !question

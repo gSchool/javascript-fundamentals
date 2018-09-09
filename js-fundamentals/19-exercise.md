@@ -10,7 +10,7 @@ This exercise will require you to use what you've learned from the previous less
 
 * type: code-snippet
 * language: javascript
-* id: 303e3d21-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b97cf1-b3c3-11e8-884e-0102c2c4839e
 * title: Iterations & Conditionals A
 
 ### !question
@@ -56,7 +56,7 @@ describe('fizzbuzz', function() {
 ### !challenge
 
 * type: testable-project
-* id: 303e6430-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b97cf2-b3c3-11e8-884e-0102c2c4839e
 * title: JS Iterations and Conditionals
 * upstream: https://github.com/gSchool/js-loops-and-conditionals-assessment
 * validate_fork: true

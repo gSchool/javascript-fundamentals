@@ -17,7 +17,7 @@ We can easily run JavaScript in the browser you're looking at this very moment! 
 ### !challenge
 
 * type: short-answer
-* id: 302f9721-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b1b4c1-b3c3-11e8-884e-0102c2c4839e
 * title: JavaScript in the Browser
 
 ### !question

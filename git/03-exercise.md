@@ -4,9 +4,8 @@ Verify your understanding of the Git Primer lessons with the
 following exercise.
 
 ### !vimeo
-
-* id: 3031e110-b3c3-11e8-9ceb-f1ccefb688fa
-* !end-vimeo
+* id: 257805716
+### !end-vimeo
 
 ## Requirements
 
@@ -52,7 +51,7 @@ following exercise.
 ### !challenge
 
 * type: testable-project
-* id: 3031e111-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b27810-b3c3-11e8-884e-0102c2c4839e
 * title: Git Primer Checkpoint
 * upstream: https://github.com/gSchool/git-primer-checkpoint-tests
 * validate_fork: false

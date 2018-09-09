@@ -57,7 +57,7 @@ And you should finally see something that looks like this.
 ### !challenge
 
 * type: multiple-choice
-* id: 302adc30-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90abe860-b3c3-11e8-884e-0102c2c4839e
 * title: Slack
 
 ### !question

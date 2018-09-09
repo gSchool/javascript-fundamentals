@@ -11,9 +11,9 @@ _By the end of this lesson, you will be able to:_
 1. Submit your work to Galvanize
 
 ### !vimeo
+* id: 258182715
 
-* id: 3031ba00-b3c3-11e8-9ceb-f1ccefb688fa
-* !end-vimeo
+### !end-vimeo
 
 ## Install Git
 
@@ -93,7 +93,7 @@ Make sure it's on https://github.com/ and not on your company's Github Enterpris
 
 ### !challenge
 * type: short-answer
-* id: 3031ba01-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b25100-b3c3-11e8-884e-0102c2c4839e
 * title: Question 1
 
 ##### !question
@@ -117,7 +117,7 @@ git ...
 
 ### !challenge
 * type: short-answer
-* id: 3031ba02-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b25101-b3c3-11e8-884e-0102c2c4839e
 * title: Question 2
 
 ##### !question
@@ -141,7 +141,7 @@ While there are other ways to add, `git add -A` is the only one you'll need for 
 
 ### !challenge
 * type: short-answer
-* id: 3031ba03-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b25102-b3c3-11e8-884e-0102c2c4839e
 * title: Question 3
 
 ##### !question
@@ -164,7 +164,7 @@ git ...
 
 ### !challenge
 * type: short-answer
-* id: 3031ba04-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b25103-b3c3-11e8-884e-0102c2c4839e
 * title: Question 4
 
 ##### !question
@@ -187,7 +187,7 @@ git ...
 
 ### !challenge
 * type: short-answer
-* id: 3031ba05-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90b25104-b3c3-11e8-884e-0102c2c4839e
 * title: Question 5
 
 ##### !question

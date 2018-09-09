@@ -9,7 +9,7 @@ This exercise will require you to use what you've learned from the previous less
 ### !challenge
 
 * type: paragraph
-* id: 302a6704-b3c3-11e8-9ceb-f1ccefb688fa
+* id: 90ab7334-b3c3-11e8-884e-0102c2c4839e
 * title: Manage and Navigate a File System
 ### !question
 

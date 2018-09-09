@@ -2,7 +2,7 @@
 Title: Web Fundamentals
 Standards:
   - Title: Development Environment
-    UID: 301112a0-b3c3-11e8-84b7-e1bb9591b669
+    UID: 9095ef60-b3c3-11e8-89bc-75dfb50e6e30
     Description: Customize the command line for increased productivity
     SuccessCriteria:
       - Install and configure the Slack Application
@@ -22,53 +22,53 @@ Standards:
       - Run JavaScript files with node and the repl
     ContentFiles:
       - Type: Lesson
-        UID: 301139b0-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9095ef61-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/00-overview.md
       - Type: Lesson
-        UID: 301139b1-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9095ef62-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/01-slack.md
       - Type: Lesson
-        UID: 301139b2-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9095ef63-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/02-terminal.md
       - Type: Lesson
-        UID: 301160c0-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961670-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/03-window-management.md
       - Type: Lesson
-        UID: 301160c1-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961671-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/04-typing.md
       - Type: Lesson
-        UID: 301160c2-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961672-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/05-homebrew.md
       - Type: Lesson
-        UID: 301160c3-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961673-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/06-text-editor.md
       - Type: Lesson
-        UID: 301160c4-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961674-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/07-node.md
       - Type: Lesson
-        UID: 301160c5-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961675-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/08-git.md
       - Type: Lesson
-        UID: 301160c6-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961676-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/09-zsh.md
       - Type: Lesson
-        UID: 301160c7-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961677-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/10-print.md
       - Type: Lesson
-        UID: 301160c8-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961678-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/11-set.md
       - Type: Lesson
-        UID: 301160c9-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961679-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/12-browser-console.md
       - Type: Lesson
-        UID: 301160ca-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096167a-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/13-node.md
       - Type: Checkpoint
-        UID: 301160cb-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096167b-b3c3-11e8-89bc-75dfb50e6e30
         Path: /dev-environment/99-checkpoint.md
         Autoscore: false
   - Title: Command Line
-    UID: 301160cc-b3c3-11e8-84b7-e1bb9591b669
+    UID: 9096167c-b3c3-11e8-89bc-75dfb50e6e30
     Description: Navigate & manipulate the file system via the command line
     SuccessCriteria:
       - Traverse the file system using both relative and absolute paths
@@ -80,41 +80,41 @@ Standards:
       - Open and exit Vim
     ContentFiles:
       - Type: Lesson
-        UID: 301160cd-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096167d-b3c3-11e8-89bc-75dfb50e6e30
         Path: /command-line/00-overview.md
       - Type: Lesson
-        UID: 301160ce-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096167e-b3c3-11e8-89bc-75dfb50e6e30
         Path: /command-line/01-traverse.md
       - Type: Lesson
-        UID: 301160cf-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096167f-b3c3-11e8-89bc-75dfb50e6e30
         Path: /command-line/02-manipulate.md
       - Type: Lesson
-        UID: 301160d0-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961680-b3c3-11e8-89bc-75dfb50e6e30
         Path: /command-line/03-wildcard.md
       - Type: Lesson
-        UID: 301160d1-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961681-b3c3-11e8-89bc-75dfb50e6e30
         Path: /command-line/04-exercise.md
       - Type: Lesson
-        UID: 301160d2-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961682-b3c3-11e8-89bc-75dfb50e6e30
         Path: /command-line/05-read.md
       - Type: Lesson
-        UID: 301160d3-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961683-b3c3-11e8-89bc-75dfb50e6e30
         Path: /command-line/06-combine-commands.md
       - Type: Lesson
-        UID: 301160d4-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961684-b3c3-11e8-89bc-75dfb50e6e30
         Path: /command-line/07-redirection.md
       - Type: Lesson
-        UID: 301160d5-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961685-b3c3-11e8-89bc-75dfb50e6e30
         Path: /command-line/08-basic-vim.md
       - Type: Lesson
-        UID: 301160d6-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961686-b3c3-11e8-89bc-75dfb50e6e30
         Path: /command-line/09-exercise.md
       - Type: Checkpoint
-        UID: 301160d7-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961687-b3c3-11e8-89bc-75dfb50e6e30
         Path: /command-line/99-checkpoint.md
         Autoscore: false
   - Title: Git
-    UID: 301160d8-b3c3-11e8-84b7-e1bb9591b669
+    UID: 90961688-b3c3-11e8-89bc-75dfb50e6e30
     Description: Utilize Git for version control
     SuccessCriteria:
       - Initialize and delete local git repositories
@@ -129,56 +129,56 @@ Standards:
       - Pull new additions from a forked repository
     ContentFiles:
       - Type: Lesson
-        UID: 301187d0-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961689-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/00-overview.md
       - Type: Lesson
-        UID: 301187d1-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096168a-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/01-git-concepts.md
       - Type: Lesson
-        UID: 301187d2-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096168b-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/02-submitting-assignments.md
       - Type: Lesson
-        UID: 301187d3-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096168c-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/03-exercise.md
       - Type: Lesson
-        UID: 301187d4-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096168d-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/04-init-remove.md
       - Type: Lesson
-        UID: 301187d5-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096168e-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/05-stage-commit-diff.md
       - Type: Lesson
-        UID: 301187d6-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096168f-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/06-log.md
       - Type: Lesson
-        UID: 301187d7-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961690-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/07-branches.md
       - Type: Lesson
-        UID: 301187d8-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961691-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/08-feature-branch.md
       - Type: Lesson
-        UID: 301187d9-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961692-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/09-merge.md
       - Type: Lesson
-        UID: 301187da-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961693-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/10-exercise.md
       - Type: Lesson
-        UID: 301187db-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90961694-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/11-sync.md
       - Type: Lesson
-        UID: 301187dc-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90963d80-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/12-remotes.md
       - Type: Lesson
-        UID: 301187dd-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90963d81-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/13-forking.md
       - Type: Lesson
-        UID: 301187de-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90963d82-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/14-pulling-new-changes.md
       - Type: Checkpoint
-        UID: 301187df-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90963d83-b3c3-11e8-89bc-75dfb50e6e30
         Path: /git/99-checkpoint.md
         Autoscore: false
   - Title: Javascript Fundamentals
-    UID: 301187e0-b3c3-11e8-84b7-e1bb9591b669
+    UID: 90963d84-b3c3-11e8-89bc-75dfb50e6e30
     Description: Utilize Javascript to solve accumulator problems
     SuccessCriteria:
       - 'Declare new, well-named variables with `var` and assign values to them'
@@ -220,96 +220,96 @@ Standards:
       - 'Write min, max, and indexOf using the accumulator pattern'
     ContentFiles:
       - Type: Lesson
-        UID: 3011aee0-b3c3-11e8-84b7-e1bb9591b669
+        UID: 90963d85-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/00-overview.md
       - Type: Lesson
-        UID: 30129940-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096b2b0-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/01-vars.md
       - Type: Lesson
-        UID: 30129941-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096b2b1-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/02-arithmetic-operators.md
       - Type: Lesson
-        UID: 30129942-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096b2b2-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/03-compare-numbers-and-booleans.md
       - Type: Lesson
-        UID: 30129943-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096b2b3-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/04-coercion.md
       - Type: Lesson
-        UID: 30129944-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096b2b4-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/05-templates.md
       - Type: Lesson
-        UID: 30129945-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9c0-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/06-exercise.md
       - Type: Lesson
-        UID: 30129946-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9c1-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/07-create-arrays.md
       - Type: Lesson
-        UID: 30129947-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9c2-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/08-access-arrays.md
       - Type: Lesson
-        UID: 30129948-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9c3-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/09-native-array-methods.md
       - Type: Lesson
-        UID: 30129949-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9c4-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/10-create-objects.md
       - Type: Lesson
-        UID: 3012994a-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9c5-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/11-access-objects.md
       - Type: Lesson
-        UID: 3012c050-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9c6-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/12-nested-structures.md
       - Type: Lesson
-        UID: 3012c051-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9c7-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/13-exercise.md
       - Type: Lesson
-        UID: 3012c052-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9c8-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/14-for-and-while.md
       - Type: Lesson
-        UID: 3012c053-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9c9-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/15-arrays-and-objects.md
       - Type: Lesson
-        UID: 3012c054-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9ca-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/16-conditionals.md
       - Type: Lesson
-        UID: 3012c055-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9cb-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/17-switch.md
       - Type: Lesson
-        UID: 3012c056-b3c3-11e8-84b7-e1bb9591b669
+        UID: 9096d9cc-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/18-nested.md
       - Type: Lesson
-        UID: 3012c057-b3c3-11e8-84b7-e1bb9591b669
+        UID: 909700d0-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/19-exercise.md
       - Type: Lesson
-        UID: 3012e760-b3c3-11e8-84b7-e1bb9591b669
+        UID: 909700d1-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/20-expressions.md
       - Type: Lesson
-        UID: 3012e761-b3c3-11e8-84b7-e1bb9591b669
+        UID: 909700d2-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/21-declarations.md
       - Type: Lesson
-        UID: 3012e762-b3c3-11e8-84b7-e1bb9591b669
+        UID: 909700d3-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/22-return-values.md
       - Type: Lesson
-        UID: 3012e763-b3c3-11e8-84b7-e1bb9591b669
+        UID: 909700d4-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/23-side-effects.md
       - Type: Lesson
-        UID: 3012e764-b3c3-11e8-84b7-e1bb9591b669
+        UID: 909700d5-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/24-multiple-params.md
       - Type: Lesson
-        UID: 3012e765-b3c3-11e8-84b7-e1bb9591b669
+        UID: 909700d6-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/25-calls-within-calls.md
       - Type: Lesson
-        UID: 3012e766-b3c3-11e8-84b7-e1bb9591b669
+        UID: 909700d7-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/26-exercise.md
       - Type: Lesson
-        UID: 3012e767-b3c3-11e8-84b7-e1bb9591b669
+        UID: 909700d8-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/27-accumulator-parts.md
       - Type: Lesson
-        UID: 3012e768-b3c3-11e8-84b7-e1bb9591b669
+        UID: 909700d9-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/28-accumulator-uses.md
       - Type: Lesson
-        UID: 3012e769-b3c3-11e8-84b7-e1bb9591b669
+        UID: 909700da-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/29-more-accumulator-uses.md
       - Type: Checkpoint
-        UID: 3012e76a-b3c3-11e8-84b7-e1bb9591b669
+        UID: 909700db-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/99-checkpoint.md
         Autoscore: false
