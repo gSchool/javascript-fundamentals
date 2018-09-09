@@ -410,7 +410,7 @@ Standards:
         Path: /ui-frameworks/02-bootstrap-intro.md
       - Type: Lesson
         UID: 868e877d-b3cf-11e8-a5cc-abb59c2f76b4
-        Path: /ui-frameworks/03-bootstrap-grand.md
+        Path: /ui-frameworks/03-bootstrap-grid.md
       - Type: Checkpoint
         Path: /ui-frameworks/99-checkpoint.md
         UID: 868e877e-b3cf-11e8-a5cc-abb59c2f76b4
