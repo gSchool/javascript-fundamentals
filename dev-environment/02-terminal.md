@@ -124,7 +124,7 @@ When you're done, it should look like this.
 ### !challenge
 
 * type: multiple-choice
-* id: 26afca10-b3d9-11e8-89b8-f32133e66ea3
+* id: aeeca6a0-b3d9-11e8-92ed-57e3f4477ba5
 * title: Terminal
 
 ### !question

@@ -20,7 +20,7 @@ Read until Accessing Elements
 ### !challenge
 
 * type: paragraph
-* id: 26b82e80-b3d9-11e8-89b8-f32133e66ea3
+* id: aef38470-b3d9-11e8-92ed-57e3f4477ba5
 * title: What are the types?
 
 ##### !question
@@ -56,7 +56,7 @@ Did you find all of these types? Here they are in order: String, Number, Null, A
 ### !challenge
 
 * type: short-answer
-* id: 26b82e81-b3d9-11e8-89b8-f32133e66ea3
+* id: aef38471-b3d9-11e8-92ed-57e3f4477ba5
 * title: Write an Array with Strings
 
 ##### !question

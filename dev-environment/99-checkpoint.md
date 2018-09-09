@@ -9,7 +9,7 @@ This checkpoint will require you to use what you've learned from the previous le
 ### !challenge
 
 * type: multiple-choice
-* id: 26b177c0-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee0631-b3d9-11e8-92ed-57e3f4477ba5
 * title: Slack A
 * standard_uuids: WD-BA4JCwkDBAY
 
@@ -46,7 +46,7 @@ Italicize the word "message"
 ### !challenge
 
 * type: multiple-choice
-* id: 26b177c1-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee0632-b3d9-11e8-92ed-57e3f4477ba5
 * title: Slack B
 * standard_uuids: WD-BA4JCwkDBAY
 
@@ -83,7 +83,7 @@ Add the word "message" to a block quote
 ### !challenge
 
 * type: multiple-choice
-* id: 26b177c2-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee0633-b3d9-11e8-92ed-57e3f4477ba5
 * title: Slack C
 * standard_uuids: WD-BA4JCwkDBAY
 
@@ -120,7 +120,7 @@ Format the word "message" into a code block
 ### !challenge
 
 * type: multiple-choice
-* id: 26b19ed0-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee0634-b3d9-11e8-92ed-57e3f4477ba5
 * title: Terminal A
 * standard_uuids: WD-BA4JCwkDBAY
 
@@ -152,7 +152,7 @@ What keyboard shortcut will create a new tab in your terminal program?
 ### !challenge
 
 * type: multiple-choice
-* id: 26b19ed1-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee2d40-b3d9-11e8-92ed-57e3f4477ba5
 * title: Terminal B
 * standard_uuids: WD-BA4JCwkDBAY
 
@@ -184,7 +184,7 @@ What keyboard shortcut will close a single tab in your terminal program?
 ### !challenge
 
 * type: multiple-choice
-* id: 26b19ed2-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee2d41-b3d9-11e8-92ed-57e3f4477ba5
 * title: Homebrew A
 * standard_uuids: WD-BA4JCwkDBAY
 
@@ -217,7 +217,7 @@ How do you list all the packages you've installed with the `brew` command?
 ### !challenge
 
 * type: multiple-choice
-* id: 26b19ed3-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee2d42-b3d9-11e8-92ed-57e3f4477ba5
 * title: Homebrew B
 * standard_uuids: WD-BA4JCwkDBAY
 
@@ -250,7 +250,7 @@ How do you fetch the newest version of Homebrew and all associated packages?
 ### !challenge
 
 * type: multiple-choice
-* id: 26b19ed4-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee2d43-b3d9-11e8-92ed-57e3f4477ba5
 * title: Homebrew C
 * standard_uuids: WD-BA4JCwkDBAY
 
@@ -283,7 +283,7 @@ How do you install new versions of all your installed packages with Homebrew?
 ### !challenge
 
 * type: multiple-choice
-* id: 26b19ed5-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee2d44-b3d9-11e8-92ed-57e3f4477ba5
 * title: Command Line Programs A
 * standard_uuids: WD-BA4JCwkDBAY
 
@@ -318,7 +318,7 @@ What do you type into the command line to open the `node` REPL?
 ### !challenge
 
 * type: multiple-choice
-* id: 26b19ed6-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee2d45-b3d9-11e8-92ed-57e3f4477ba5
 * title: Command Line Programs B
 * standard_uuids: WD-BA4JCwkDBAY
 
@@ -353,7 +353,7 @@ What do you type into the command line to open a specific file with Atom?
 ### !challenge
 
 * type: multiple-choice
-* id: 26b19ed7-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee2d46-b3d9-11e8-92ed-57e3f4477ba5
 * title: Command Line Programs C
 * standard_uuids: WD-BA4JCwkDBAY
 
@@ -388,7 +388,7 @@ What do you type into the command line to open the Zsh configuration file?
 ### !challenge
 
 * type: multiple-choice
-* id: 26b19ed8-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee2d47-b3d9-11e8-92ed-57e3f4477ba5
 * title: Environment A
 * standard_uuids: WD-BA4JCwkDBAY
 
@@ -420,7 +420,7 @@ How can you print out your Zsh theme on the command line?
 ### !challenge
 
 * type: multiple-choice
-* id: 26b19ed9-b3d9-11e8-89b8-f32133e66ea3
+* id: aeee2d48-b3d9-11e8-92ed-57e3f4477ba5
 * title: Environment B
 * standard_uuids: WD-BA4JCwkDBAY
 

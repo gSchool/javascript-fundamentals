@@ -19,7 +19,7 @@ The Chrome inspector is a powerful tool for debugging problems you're having wit
 ### !challenge
 
 * type: project
-* id: 26abab60-b3d9-11e8-89b8-f32133e66ea3
+* id: aee9c070-b3d9-11e8-92ed-57e3f4477ba5
 * title: Using the Inspector
 
 ##### !question

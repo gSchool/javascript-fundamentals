@@ -9,7 +9,7 @@ This checkpoint will require you to use what you've learned from the previous le
 ### !challenge
 
 * type: project
-* id: 26a98880-b3d9-11e8-89b8-f32133e66ea3
+* id: aee7ebb1-b3d9-11e8-92ed-57e3f4477ba5
 * title: Galvanize Personnel
 * standard_uuids: WD-AAwCCAgEAwQ
 
