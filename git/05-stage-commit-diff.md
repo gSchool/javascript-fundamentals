@@ -11,7 +11,7 @@ Complete the following from Codecademy:
 ### !challenge
 
 * type: short-answer
-* id: 06c348e0-b3c9-11e8-86aa-2d44bc389978
+* id: 86ab8530-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Tracking Changes with Git A
 
 ##### !question
@@ -33,7 +33,7 @@ When you run `git add` and add a file or multiple files, what area are those fil
 ### !challenge
 
 * type: short-answer
-* id: 06c348e1-b3c9-11e8-86aa-2d44bc389978
+* id: 86ab8531-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Tracking Changes with Git B
 
 ##### !question
@@ -55,7 +55,7 @@ What command should you run once all your files are staged and ready?
 ### !challenge
 
 * type: short-answer
-* id: 06c348e2-b3c9-11e8-86aa-2d44bc389978
+* id: 86ab8532-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Tracking Changes with Git C
 
 ##### !question

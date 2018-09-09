@@ -33,7 +33,7 @@ The above link has an `href`, `class`, and `id` attribute. There are dozens of d
 ### !challenge
 
 * type: multiple-choice
-* id: 06c4f690-b3c9-11e8-86aa-2d44bc389978
+* id: 86aee090-b3cf-11e8-9c80-3f50f0d4f65c
 * title: HTML Attributes A
 
 ### !question
@@ -65,7 +65,7 @@ Which of the following will correctly show the image?
 ### !challenge
 
 * type: multiple-choice
-* id: 06c4f691-b3c9-11e8-86aa-2d44bc389978
+* id: 86aee091-b3cf-11e8-9c80-3f50f0d4f65c
 * title: HTML Attributes B
 
 ### !question
@@ -97,7 +97,7 @@ Which of the following will correctly style the element?
 ### !challenge
 
 * type: multiple-choice
-* id: 06c4f692-b3c9-11e8-86aa-2d44bc389978
+* id: 86aee092-b3cf-11e8-9c80-3f50f0d4f65c
 * title: HTML Attributes C
 
 ### !question

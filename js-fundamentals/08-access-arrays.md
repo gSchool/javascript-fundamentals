@@ -21,7 +21,7 @@ Read until Objects
 ### !challenge
 
 * type: multiple-choice
-* id: 06c803d0-b3c9-11e8-86aa-2d44bc389978
+* id: 86b28a10-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Access Arrays A
 
 ##### !question
@@ -67,7 +67,7 @@ Whatever _expression_ is inside the brackets is _evaluated_, and the result is u
 ### !challenge
 
 * type: multiple-choice
-* id: 06c803d1-b3c9-11e8-86aa-2d44bc389978
+* id: 86b2b120-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Access Arrays B
 
 ##### !question
@@ -113,7 +113,7 @@ Whatever _expression_ is inside the brackets is _evaluated_, and the result is u
 ### !challenge
 
 * type: multiple-choice
-* id: 06c803d2-b3c9-11e8-86aa-2d44bc389978
+* id: 86b2b121-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Access Arrays C
 
 ##### !question

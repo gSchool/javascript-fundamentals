@@ -10,7 +10,7 @@ This checkpoint will require you to use what you've learned from the previous le
 
 * type: code-snippet
 * language: javascript
-* id: 06cc70a0-b3c9-11e8-86aa-2d44bc389978
+* id: 86b71df0-b3cf-11e8-9c80-3f50f0d4f65c
 * title: doubleNumbers
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -57,7 +57,7 @@ describe('doubleNumbers', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cc70a1-b3c9-11e8-86aa-2d44bc389978
+* id: 86b71df1-b3cf-11e8-9c80-3f50f0d4f65c
 * title: multiplyNumbers
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -108,7 +108,7 @@ describe('multiplyNumbers', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cc97b0-b3c9-11e8-86aa-2d44bc389978
+* id: 86b71df2-b3cf-11e8-9c80-3f50f0d4f65c
 * title: doubleLetters
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -155,7 +155,7 @@ describe('doubleLetters', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cc97b1-b3c9-11e8-86aa-2d44bc389978
+* id: 86b71df3-b3cf-11e8-9c80-3f50f0d4f65c
 * title: interleave
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -203,7 +203,7 @@ describe('interleave', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cc97b2-b3c9-11e8-86aa-2d44bc389978
+* id: 86b71df4-b3cf-11e8-9c80-3f50f0d4f65c
 * title: createRange
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -251,7 +251,7 @@ describe('createRange', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cc97b3-b3c9-11e8-86aa-2d44bc389978
+* id: 86b71df5-b3cf-11e8-9c80-3f50f0d4f65c
 * title: flipArray
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -300,7 +300,7 @@ describe('flipArray', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cc97b4-b3c9-11e8-86aa-2d44bc389978
+* id: 86b74500-b3cf-11e8-9c80-3f50f0d4f65c
 * title: arraysToObject
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -347,7 +347,7 @@ describe('arraysToObject', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06ccbec0-b3c9-11e8-86aa-2d44bc389978
+* id: 86b76c10-b3cf-11e8-9c80-3f50f0d4f65c
 * title: reverseString
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -399,7 +399,7 @@ describe('reverseString', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06ccbec1-b3c9-11e8-86aa-2d44bc389978
+* id: 86b76c11-b3cf-11e8-9c80-3f50f0d4f65c
 * title: repeats
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -459,7 +459,7 @@ describe('repeats', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06ccbec2-b3c9-11e8-86aa-2d44bc389978
+* id: 86b79320-b3cf-11e8-9c80-3f50f0d4f65c
 * title: everyOther
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -512,7 +512,7 @@ describe('everyOther', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cce5d0-b3c9-11e8-86aa-2d44bc389978
+* id: 86b82f60-b3cf-11e8-9c80-3f50f0d4f65c
 * title: allEqual
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -567,7 +567,7 @@ describe('allEqual', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cce5d1-b3c9-11e8-86aa-2d44bc389978
+* id: 86b82f61-b3cf-11e8-9c80-3f50f0d4f65c
 * title: sumLetters
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -617,7 +617,7 @@ describe('sumLetters', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cce5d2-b3c9-11e8-86aa-2d44bc389978
+* id: 86b940d0-b3cf-11e8-9c80-3f50f0d4f65c
 * title: countVowels
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -666,7 +666,7 @@ describe('countVowels', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cce5d3-b3c9-11e8-86aa-2d44bc389978
+* id: 86b940d1-b3cf-11e8-9c80-3f50f0d4f65c
 * title: split
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -721,7 +721,7 @@ describe('split', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cce5d4-b3c9-11e8-86aa-2d44bc389978
+* id: 86b967e0-b3cf-11e8-9c80-3f50f0d4f65c
 * title: getCodePoints
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -772,7 +772,7 @@ describe('getCodePoints', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd0ce0-b3c9-11e8-86aa-2d44bc389978
+* id: 86b967e1-b3cf-11e8-9c80-3f50f0d4f65c
 * title: letterMap
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -823,7 +823,7 @@ describe('letterMap', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd0ce1-b3c9-11e8-86aa-2d44bc389978
+* id: 86b967e2-b3cf-11e8-9c80-3f50f0d4f65c
 * title: letterCount
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -874,7 +874,7 @@ describe('letterCount', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd0ce2-b3c9-11e8-86aa-2d44bc389978
+* id: 86b967e3-b3cf-11e8-9c80-3f50f0d4f65c
 * title: threeOdds
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -932,7 +932,7 @@ describe('threeOdds', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd0ce3-b3c9-11e8-86aa-2d44bc389978
+* id: 86b98ef0-b3cf-11e8-9c80-3f50f0d4f65c
 * title: createString
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -983,7 +983,7 @@ describe('createString', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd33f0-b3c9-11e8-86aa-2d44bc389978
+* id: 86b9dd10-b3cf-11e8-9c80-3f50f0d4f65c
 * title: factorial
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1039,7 +1039,7 @@ describe('factorial', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd33f1-b3c9-11e8-86aa-2d44bc389978
+* id: 86ba2b30-b3cf-11e8-9c80-3f50f0d4f65c
 * title: arrayOfNumbers
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1093,7 +1093,7 @@ describe('arrayOfNumbers', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd33f2-b3c9-11e8-86aa-2d44bc389978
+* id: 86ba2b31-b3cf-11e8-9c80-3f50f0d4f65c
 * title: evenOdd
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1142,7 +1142,7 @@ describe('evenOdd', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd33f3-b3c9-11e8-86aa-2d44bc389978
+* id: 86ba2b32-b3cf-11e8-9c80-3f50f0d4f65c
 * title: growingKeys
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1192,7 +1192,7 @@ describe('growingKeys', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd33f4-b3c9-11e8-86aa-2d44bc389978
+* id: 86ba2b33-b3cf-11e8-9c80-3f50f0d4f65c
 * title: every
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1251,7 +1251,7 @@ describe('every', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd5b00-b3c9-11e8-86aa-2d44bc389978
+* id: 86ba2b34-b3cf-11e8-9c80-3f50f0d4f65c
 * title: some
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1309,7 +1309,7 @@ describe('some', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd5b01-b3c9-11e8-86aa-2d44bc389978
+* id: 86ba5240-b3cf-11e8-9c80-3f50f0d4f65c
 * title: toSentence
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1364,7 +1364,7 @@ describe('toSentence', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd5b02-b3c9-11e8-86aa-2d44bc389978
+* id: 86ba5241-b3cf-11e8-9c80-3f50f0d4f65c
 * title: acronym
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1414,7 +1414,7 @@ describe('acronym', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd5b03-b3c9-11e8-86aa-2d44bc389978
+* id: 86ba5242-b3cf-11e8-9c80-3f50f0d4f65c
 * title: index
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1475,7 +1475,7 @@ describe('index', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd5b04-b3c9-11e8-86aa-2d44bc389978
+* id: 86ba5243-b3cf-11e8-9c80-3f50f0d4f65c
 * title: invert
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1528,7 +1528,7 @@ describe('invert', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd8210-b3c9-11e8-86aa-2d44bc389978
+* id: 86baa060-b3cf-11e8-9c80-3f50f0d4f65c
 * title: addSignature
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1597,7 +1597,7 @@ describe('addSignature', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd8211-b3c9-11e8-86aa-2d44bc389978
+* id: 86baa061-b3cf-11e8-9c80-3f50f0d4f65c
 * title: pairs
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1646,7 +1646,7 @@ describe('pairs', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cd8212-b3c9-11e8-86aa-2d44bc389978
+* id: 86baa062-b3cf-11e8-9c80-3f50f0d4f65c
 * title: sumValues
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1699,7 +1699,7 @@ describe('sumValues', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cda920-b3c9-11e8-86aa-2d44bc389978
+* id: 86baa063-b3cf-11e8-9c80-3f50f0d4f65c
 * title: biggestProperty
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1752,7 +1752,7 @@ describe('biggestProperty', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cda921-b3c9-11e8-86aa-2d44bc389978
+* id: 86bac770-b3cf-11e8-9c80-3f50f0d4f65c
 * title: keyForValue
 * standard_uuids: WD-AAEBCAgBDQk
 
@@ -1801,7 +1801,7 @@ describe('keyForValue', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cda922-b3c9-11e8-86aa-2d44bc389978
+* id: 86bac771-b3cf-11e8-9c80-3f50f0d4f65c
 * title: containsValue
 * standard_uuids: WD-AAEBCAgBDQk
 

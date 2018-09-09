@@ -202,7 +202,7 @@ Many programs have configuration settings that they want stored out of plain sig
 ### !challenge
 
 * type: short-answer
-* id: 06b8c190-b3c9-11e8-86aa-2d44bc389978
+* id: 869df0a0-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Listing Directory Content
 
 ##### !question
@@ -230,7 +230,7 @@ Correct!
 ### !challenge
 
 * type: short-answer
-* id: 06b8c191-b3c9-11e8-86aa-2d44bc389978
+* id: 869df0a1-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Current Path
 
 ##### !question
@@ -258,7 +258,7 @@ Correct! If you ever need to know the full path of your current directory, use t
 ### !challenge
 
 * type: short-answer
-* id: 06b8c192-b3c9-11e8-86aa-2d44bc389978
+* id: 869e17b0-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Traversing
 
 ##### !question

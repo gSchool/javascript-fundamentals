@@ -9,7 +9,7 @@ This exercise will require you to use what you've learned from the previous less
 ### !challenge
 
 * type: project
-* id: 06c3be11-b3c9-11e8-86aa-2d44bc389978
+* id: 86ad0bd0-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Git Project
 
 ##### !question

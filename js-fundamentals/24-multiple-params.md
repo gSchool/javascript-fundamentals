@@ -18,7 +18,7 @@ Often, we must pass more than one thing into a function so that we can have ever
 
 * type: code-snippet
 * language: javascript
-* id: 06caea01-b3c9-11e8-86aa-2d44bc389978
+* id: 86b57040-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Multiple Parameters A
 
 ### !question
@@ -65,7 +65,7 @@ Great! You can write functions with more than one parameter, and return values c
 
 * type: code-snippet
 * language: javascript
-* id: 06caea02-b3c9-11e8-86aa-2d44bc389978
+* id: 86b57041-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Multiple Parameters B
 
 ### !question

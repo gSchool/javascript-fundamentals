@@ -9,7 +9,7 @@ This exercise will require you to use what you've learned from the previous less
 ### !challenge
 
 * type: short-answer
-* id: 06bae471-b3c9-11e8-86aa-2d44bc389978
+* id: 86a14c00-b3cf-11e8-9c80-3f50f0d4f65c
 * title: CSS Exercise A
 
 ### !question
@@ -47,7 +47,7 @@ Correct! Since the second rule came last, it will take precedence over the `gree
 ### !challenge
 
 * type: short-answer
-* id: 06bae472-b3c9-11e8-86aa-2d44bc389978
+* id: 86a14c01-b3cf-11e8-9c80-3f50f0d4f65c
 * title: CSS Exercise B
 
 ### !question
@@ -91,7 +91,7 @@ Congrats! This one is tricky. Even though the `blue` background came first, it h
 ### !challenge
 
 * type: short-answer
-* id: 06bae473-b3c9-11e8-86aa-2d44bc389978
+* id: 86a14c02-b3cf-11e8-9c80-3f50f0d4f65c
 * title: CSS Exercise C
 
 ### !question
@@ -138,7 +138,7 @@ Great! There are several answers to this depending on how many elements you incl
 ### !challenge
 
 * type: short-answer
-* id: 06bae474-b3c9-11e8-86aa-2d44bc389978
+* id: 86a14c03-b3cf-11e8-9c80-3f50f0d4f65c
 * title: CSS Exercise D
 
 ### !question

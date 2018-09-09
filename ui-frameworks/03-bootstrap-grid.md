@@ -99,7 +99,7 @@ Take a few minutes to play around with the grid system. Don't be afraid to make 
 ### !challenge
 
 * type: short-answer
-* id: 6ca3932a-b145-45ee-ba86-5c91020169af
+* id: 86bbb1d0-b3cf-11e8-9c80-3f50f0d4f65c
 * title: CSS Layout A
 
 ### !question
@@ -121,7 +121,7 @@ How many columns are available to you in a Bootstrap Row?
 ### !challenge
 
 * type: short-answer
-* id: 3d648554-22a4-4600-9304-09f5bad87204
+* id: 86bbb1d1-b3cf-11e8-9c80-3f50f0d4f65c
 * title: CSS Layout B
 
 ### !question

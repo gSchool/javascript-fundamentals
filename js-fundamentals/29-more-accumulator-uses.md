@@ -49,7 +49,7 @@ Before running the code, take a guess as to what it will return. After running i
 
 * type: code-snippet
 * language: javascript
-* id: 06cc2280-b3c9-11e8-86aa-2d44bc389978
+* id: 86b6a8c0-b3cf-11e8-9c80-3f50f0d4f65c
 * title: indexOf
 
 ### !question
@@ -133,7 +133,7 @@ describe('indexOf function', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cc4990-b3c9-11e8-86aa-2d44bc389978
+* id: 86b6cfd0-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Max
 
 ### !question
@@ -188,7 +188,7 @@ describe('max function', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 06cc4991-b3c9-11e8-86aa-2d44bc389978
+* id: 86b6cfd1-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Min
 
 ### !question

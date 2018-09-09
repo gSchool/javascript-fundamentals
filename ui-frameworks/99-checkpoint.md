@@ -9,7 +9,7 @@ This checkpoint will require you to use what you've learned from the previous le
 ### !challenge
 
 * type: project
-* id: 2eaede58-cadd-48ef-81e8-9e364ad6f8bd
+* id: 86bbd8e0-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Building Layouts
 * standard_uuids: a8d4ed78-1b59-44fe-a23c-7fca32f58ca1
 

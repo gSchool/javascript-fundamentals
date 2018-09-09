@@ -16,7 +16,7 @@ The previous two lines we copied to push our local code up to GitHub include a l
 ### !challenge
 
 * type: short-answer
-* id: 06c43340-b3c9-11e8-86aa-2d44bc389978
+* id: 86adf630-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Remotes A
 
 ##### !question
@@ -38,7 +38,7 @@ What command would you run to create a local copy of a repository on GitHub on y
 ### !challenge
 
 * type: short-answer
-* id: 06c43341-b3c9-11e8-86aa-2d44bc389978
+* id: 86adf631-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Remotes B
 
 ##### !question

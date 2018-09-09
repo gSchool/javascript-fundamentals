@@ -51,7 +51,7 @@ following exercise.
 ### !challenge
 
 * type: testable-project
-* id: 06c2fac2-b3c9-11e8-86aa-2d44bc389978
+* id: 86ab3710-b3cf-11e8-9c80-3f50f0d4f65c
 * title: Git Primer Checkpoint
 * upstream: https://github.com/gSchool/git-primer-checkpoint-tests
 * validate_fork: false
