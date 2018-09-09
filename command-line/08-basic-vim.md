@@ -23,7 +23,7 @@ Don't be one of these people who get flustered just getting in and out of Vim. L
 ### !challenge
 
 * type: short-answer
-* id: 90ab7330-b3c3-11e8-884e-0102c2c4839e
+* id: 06b9fa12-b3c9-11e8-86aa-2d44bc389978
 * title: Basic Vim A
 
 ##### !question
@@ -51,7 +51,7 @@ Correct!
 ### !challenge
 
 * type: short-answer
-* id: 90ab7331-b3c3-11e8-884e-0102c2c4839e
+* id: 06ba2120-b3c9-11e8-86aa-2d44bc389978
 * title: Basic Vim B
 
 ##### !question
@@ -79,7 +79,7 @@ Correct!
 ### !challenge
 
 * type: short-answer
-* id: 90ab7332-b3c3-11e8-884e-0102c2c4839e
+* id: 06ba2121-b3c9-11e8-86aa-2d44bc389978
 * title: Basic Vim C
 
 ##### !question
@@ -107,7 +107,7 @@ Correct!
 ### !challenge
 
 * type: short-answer
-* id: 90ab7333-b3c3-11e8-884e-0102c2c4839e
+* id: 06ba2122-b3c9-11e8-86aa-2d44bc389978
 * title: Basic Vim D
 
 ##### !question

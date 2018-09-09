@@ -24,7 +24,7 @@ accumulator pattern.
 
 * type: code-snippet
 * language: javascript
-* id: 90ba8e60-b3c3-11e8-884e-0102c2c4839e
+* id: 06cb5f30-b3c9-11e8-86aa-2d44bc389978
 * title: Accumulator Pattern
 
 ### !question

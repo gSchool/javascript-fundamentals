@@ -19,7 +19,7 @@ are the most fundamental, and you'll never stop using them entirely.
 
 * type: code-snippet
 * language: javascript
-* id: 90b86b80-b3c3-11e8-884e-0102c2c4839e
+* id: 06c93c50-b3c9-11e8-86aa-2d44bc389978
 * title: for Loops
 
 ### !question
@@ -72,7 +72,7 @@ describe('for loop code', function() {
 
 * type: code-snippet
 * language: javascript
-* id: 90b86b81-b3c3-11e8-884e-0102c2c4839e
+* id: 06c96360-b3c9-11e8-86aa-2d44bc389978
 * title: while Loops
 
 ### !question

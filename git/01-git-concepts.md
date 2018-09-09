@@ -55,7 +55,7 @@ On Github, when you **fork** a repository, you create a personal copy of that re
 
 ### !challenge
 * type: multiple-choice
-* id: 90b229f0-b3c3-11e8-884e-0102c2c4839e
+* id: 06c28590-b3c9-11e8-86aa-2d44bc389978
 * title: Question 1
 
 ##### !question
@@ -81,7 +81,7 @@ https://help.github.com/articles/fork-a-repo/
 
 ### !challenge
 * type: multiple-choice
-* id: 90b229f1-b3c3-11e8-884e-0102c2c4839e
+* id: 06c2aca0-b3c9-11e8-86aa-2d44bc389978
 * title: Question 2
 
 ##### !question
@@ -108,7 +108,7 @@ https://help.github.com/articles/cloning-a-repository/
 
 ### !challenge
 * type: multiple-choice
-* id: 90b229f2-b3c3-11e8-884e-0102c2c4839e
+* id: 06c2aca1-b3c9-11e8-86aa-2d44bc389978
 * title: Question 3
 
 ##### !question
@@ -135,7 +135,7 @@ https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command
 
 ### !challenge
 * type: multiple-choice
-* id: 90b229f3-b3c3-11e8-884e-0102c2c4839e
+* id: 06c2aca2-b3c9-11e8-86aa-2d44bc389978
 * title: Question 4
 
 ##### !question

@@ -93,7 +93,7 @@ Make sure it's on https://github.com/ and not on your company's Github Enterpris
 
 ### !challenge
 * type: short-answer
-* id: 90b25100-b3c3-11e8-884e-0102c2c4839e
+* id: 06c2d3b0-b3c9-11e8-86aa-2d44bc389978
 * title: Question 1
 
 ##### !question
@@ -117,7 +117,7 @@ git ...
 
 ### !challenge
 * type: short-answer
-* id: 90b25101-b3c3-11e8-884e-0102c2c4839e
+* id: 06c2d3b1-b3c9-11e8-86aa-2d44bc389978
 * title: Question 2
 
 ##### !question
@@ -141,7 +141,7 @@ While there are other ways to add, `git add -A` is the only one you'll need for 
 
 ### !challenge
 * type: short-answer
-* id: 90b25102-b3c3-11e8-884e-0102c2c4839e
+* id: 06c2d3b2-b3c9-11e8-86aa-2d44bc389978
 * title: Question 3
 
 ##### !question
@@ -164,7 +164,7 @@ git ...
 
 ### !challenge
 * type: short-answer
-* id: 90b25103-b3c3-11e8-884e-0102c2c4839e
+* id: 06c2fac0-b3c9-11e8-86aa-2d44bc389978
 * title: Question 4
 
 ##### !question
@@ -187,7 +187,7 @@ git ...
 
 ### !challenge
 * type: short-answer
-* id: 90b25104-b3c3-11e8-884e-0102c2c4839e
+* id: 06c2fac1-b3c9-11e8-86aa-2d44bc389978
 * title: Question 5
 
 ##### !question

@@ -21,7 +21,7 @@ One important thing to keep in mind is that git projects _cannot have children t
 ### !challenge
 
 * type: short-answer
-* id: 90b29f20-b3c3-11e8-884e-0102c2c4839e
+* id: 06c321d0-b3c9-11e8-86aa-2d44bc389978
 * title: Practicing with Git
 
 ##### !question
@@ -43,7 +43,7 @@ It's best to practice working with git on your own computer. Create a new folder
 ### !challenge
 
 * type: short-answer
-* id: 90b29f21-b3c3-11e8-884e-0102c2c4839e
+* id: 06c321d1-b3c9-11e8-86aa-2d44bc389978
 * title: Create a new Git Project
 
 ##### !question
