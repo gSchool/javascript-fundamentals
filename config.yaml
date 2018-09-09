@@ -391,3 +391,36 @@ Standards:
         Path: /css/99-checkpoint.md
         UID: 06a7aaa6-b3c9-11e8-927b-df29d2850fda
         Autoscore: false
+  - Title: UI Frameworks
+    UID: a8d4ed78-1b59-44fe-a23c-7fca32f58ca1
+    Description: Add style and form to webpages with CSS
+    SuccessCriteria:
+      - >-
+        Rows are appropriately used with columns / smaller units and can be
+        nested inside one another
+    ContentFiles:
+      - Type: Lesson
+        UID: 06a7aa9f-b3c9-11e8-927b-df29d2850fda
+        Path: /css/00-overview.md
+      - Type: Lesson
+        UID: 06a7aaa0-b3c9-11e8-927b-df29d2850fda
+        Path: /css/subtrees/README.md
+      - Type: Lesson
+        UID: 06a7aaa1-b3c9-11e8-927b-df29d2850fda
+        Path: /css/02-inspector.md
+      - Type: Lesson
+        UID: 06a7aaa2-b3c9-11e8-927b-df29d2850fda
+        Path: /css/03-styling.md
+      - Type: Lesson
+        UID: 06a7aaa3-b3c9-11e8-927b-df29d2850fda
+        Path: /css/04-segment-files.md
+      - Type: Lesson
+        UID: 06a7aaa4-b3c9-11e8-927b-df29d2850fda
+        Path: /css/05-exercise.md
+      - Type: Lesson
+        UID: 06a7aaa5-b3c9-11e8-927b-df29d2850fda
+        Path: /css/06-display.md
+      - Type: Checkpoint
+        Path: /css/99-checkpoint.md
+        UID: 06a7aaa6-b3c9-11e8-927b-df29d2850fda
+        Autoscore: false
