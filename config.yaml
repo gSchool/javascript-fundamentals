@@ -2,7 +2,7 @@
 Title: Web Fundamentals
 Standards:
   - Title: Development Environment
-    UID: 868d75e0-b3cf-11e8-a5cc-abb59c2f76b4
+    UID: ffcfe980-b3d2-11e8-8fe6-7d01bbf72d0e
     Description: Customize the command line for increased productivity
     SuccessCriteria:
       - Install and configure the Slack Application
@@ -22,53 +22,53 @@ Standards:
       - Run JavaScript files with node and the repl
     ContentFiles:
       - Type: Lesson
-        UID: 868d75e1-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffcfe981-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/00-overview.md
       - Type: Lesson
-        UID: 868d75e2-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffcfe982-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/01-slack.md
       - Type: Lesson
-        UID: 868d9cf0-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd01090-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/02-terminal.md
       - Type: Lesson
-        UID: 868d9cf1-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd01091-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/03-window-management.md
       - Type: Lesson
-        UID: 868dc400-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd01092-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/04-typing.md
       - Type: Lesson
-        UID: 868dc401-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd01093-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/05-homebrew.md
       - Type: Lesson
-        UID: 868dc402-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd01094-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/06-text-editor.md
       - Type: Lesson
-        UID: 868dc403-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd01095-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/07-node.md
       - Type: Lesson
-        UID: 868dc404-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd01096-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/08-git.md
       - Type: Lesson
-        UID: 868dc405-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd01097-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/09-zsh.md
       - Type: Lesson
-        UID: 868dc406-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd01098-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/10-print.md
       - Type: Lesson
-        UID: 868dc407-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd01099-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/11-set.md
       - Type: Lesson
-        UID: 868dc408-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0109a-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/12-browser-console.md
       - Type: Lesson
-        UID: 868dc409-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0109b-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/13-node.md
       - Type: Checkpoint
-        UID: 868dc40a-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0109c-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /dev-environment/99-checkpoint.md
         Autoscore: false
   - Title: Command Line
-    UID: 868dc40b-b3cf-11e8-a5cc-abb59c2f76b4
+    UID: ffd0109d-b3d2-11e8-8fe6-7d01bbf72d0e
     Description: Navigate & manipulate the file system via the command line
     SuccessCriteria:
       - Traverse the file system using both relative and absolute paths
@@ -80,41 +80,41 @@ Standards:
       - Open and exit Vim
     ContentFiles:
       - Type: Lesson
-        UID: 868dc40c-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0109e-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /command-line/00-overview.md
       - Type: Lesson
-        UID: 868dc40d-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0109f-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /command-line/01-traverse.md
       - Type: Lesson
-        UID: 868dc40e-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd010a0-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /command-line/02-manipulate.md
       - Type: Lesson
-        UID: 868dc40f-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd010a1-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /command-line/03-wildcard.md
       - Type: Lesson
-        UID: 868dc410-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd010a2-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /command-line/04-exercise.md
       - Type: Lesson
-        UID: 868dc411-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd010a3-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /command-line/05-read.md
       - Type: Lesson
-        UID: 868dc412-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd010a4-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /command-line/06-combine-commands.md
       - Type: Lesson
-        UID: 868dc413-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037a0-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /command-line/07-redirection.md
       - Type: Lesson
-        UID: 868dc414-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037a1-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /command-line/08-basic-vim.md
       - Type: Lesson
-        UID: 868dc415-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037a2-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /command-line/09-exercise.md
       - Type: Checkpoint
-        UID: 868dc416-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037a3-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /command-line/99-checkpoint.md
         Autoscore: false
   - Title: Git
-    UID: 868dc417-b3cf-11e8-a5cc-abb59c2f76b4
+    UID: ffd037a4-b3d2-11e8-8fe6-7d01bbf72d0e
     Description: Utilize Git for version control
     SuccessCriteria:
       - Initialize and delete local git repositories
@@ -129,56 +129,56 @@ Standards:
       - Pull new additions from a forked repository
     ContentFiles:
       - Type: Lesson
-        UID: 868dc418-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037a5-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/00-overview.md
       - Type: Lesson
-        UID: 868dc419-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037a6-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/01-git-concepts.md
       - Type: Lesson
-        UID: 868dc41a-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037a7-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/02-submitting-assignments.md
       - Type: Lesson
-        UID: 868deb10-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037a8-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/03-exercise.md
       - Type: Lesson
-        UID: 868deb11-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037a9-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/04-init-remove.md
       - Type: Lesson
-        UID: 868deb12-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037aa-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/05-stage-commit-diff.md
       - Type: Lesson
-        UID: 868deb13-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037ab-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/06-log.md
       - Type: Lesson
-        UID: 868deb14-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037ac-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/07-branches.md
       - Type: Lesson
-        UID: 868deb15-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037ad-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/08-feature-branch.md
       - Type: Lesson
-        UID: 868deb16-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037ae-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/09-merge.md
       - Type: Lesson
-        UID: 868deb17-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037af-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/10-exercise.md
       - Type: Lesson
-        UID: 868deb18-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037b0-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/11-sync.md
       - Type: Lesson
-        UID: 868deb19-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037b1-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/12-remotes.md
       - Type: Lesson
-        UID: 868deb1a-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037b2-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/13-forking.md
       - Type: Lesson
-        UID: 868deb1b-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037b3-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/14-pulling-new-changes.md
       - Type: Checkpoint
-        UID: 868deb1c-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd037b4-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /git/99-checkpoint.md
         Autoscore: false
   - Title: Javascript Fundamentals
-    UID: 868deb1d-b3cf-11e8-a5cc-abb59c2f76b4
+    UID: ffd037b5-b3d2-11e8-8fe6-7d01bbf72d0e
     Description: Utilize Javascript to solve accumulator problems
     SuccessCriteria:
       - 'Declare new, well-named variables with `var` and assign values to them'
@@ -220,101 +220,101 @@ Standards:
       - 'Write min, max, and indexOf using the accumulator pattern'
     ContentFiles:
       - Type: Lesson
-        UID: 868deb1e-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd05eb0-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/00-overview.md
       - Type: Lesson
-        UID: 868e6040-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3e0-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/01-vars.md
       - Type: Lesson
-        UID: 868e6041-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3e1-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/02-arithmetic-operators.md
       - Type: Lesson
-        UID: 868e6042-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3e2-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/03-compare-numbers-and-booleans.md
       - Type: Lesson
-        UID: 868e6043-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3e3-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/04-coercion.md
       - Type: Lesson
-        UID: 868e6044-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3e4-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/05-templates.md
       - Type: Lesson
-        UID: 868e6045-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3e5-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/06-exercise.md
       - Type: Lesson
-        UID: 868e6046-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3e6-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/07-create-arrays.md
       - Type: Lesson
-        UID: 868e8750-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3e7-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/08-access-arrays.md
       - Type: Lesson
-        UID: 868e8751-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3e8-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/09-native-array-methods.md
       - Type: Lesson
-        UID: 868e8752-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3e9-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/10-create-objects.md
       - Type: Lesson
-        UID: 868e8753-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3ea-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/11-access-objects.md
       - Type: Lesson
-        UID: 868e8754-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3eb-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/12-nested-structures.md
       - Type: Lesson
-        UID: 868e8755-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3ec-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/13-exercise.md
       - Type: Lesson
-        UID: 868e8756-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3ed-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/14-for-and-while.md
       - Type: Lesson
-        UID: 868e8757-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3ee-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/15-arrays-and-objects.md
       - Type: Lesson
-        UID: 868e8758-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3ef-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/16-conditionals.md
       - Type: Lesson
-        UID: 868e8759-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3f0-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/17-switch.md
       - Type: Lesson
-        UID: 868e875a-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3f1-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/18-nested.md
       - Type: Lesson
-        UID: 868e875b-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3f2-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/19-exercise.md
       - Type: Lesson
-        UID: 868e875c-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3f3-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/20-expressions.md
       - Type: Lesson
-        UID: 868e875d-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3f4-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/21-declarations.md
       - Type: Lesson
-        UID: 868e875e-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3f5-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/22-return-values.md
       - Type: Lesson
-        UID: 868e875f-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3f6-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/23-side-effects.md
       - Type: Lesson
-        UID: 868e8760-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3f7-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/24-multiple-params.md
       - Type: Lesson
-        UID: 868e8761-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3f8-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/25-calls-within-calls.md
       - Type: Lesson
-        UID: 868e8762-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3f9-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/26-exercise.md
       - Type: Lesson
-        UID: 868e8763-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3fa-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/27-accumulator-parts.md
       - Type: Lesson
-        UID: 868e8764-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3fb-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/28-accumulator-uses.md
       - Type: Lesson
-        UID: 868e8765-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3fc-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/29-more-accumulator-uses.md
       - Type: Checkpoint
-        UID: 868e8766-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3fd-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /js-fundamentals/99-checkpoint.md
         Autoscore: false
   - Title: HTML
-    UID: 868e8767-b3cf-11e8-a5cc-abb59c2f76b4
+    UID: ffd0d3fe-b3d2-11e8-8fe6-7d01bbf72d0e
     Description: Write valid and semantic HTML to form the basic structure of a webpage
     SuccessCriteria:
       - HTML is properly indented
@@ -329,32 +329,32 @@ Standards:
       - Checkboxes and radio buttons are grouped and labeled
     ContentFiles:
       - Type: Lesson
-        UID: 868e8768-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d3ff-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /html/00-overview.md
       - Type: Lesson
-        UID: 868e8769-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d400-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /html/01-indentation.md
       - Type: Lesson
-        UID: 868e876a-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0d401-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /html/subtrees/README.md
       - Type: Lesson
-        UID: 868e876b-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0faf0-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /html/subtrees/Semantic.md
       - Type: Lesson
-        UID: 868e876c-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0faf1-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /html/04-attributes.md
       - Type: Lesson
-        UID: 868e876d-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0faf2-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /html/05-form-basics.md
       - Type: Lesson
-        UID: 868e876e-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0faf3-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /html/subtrees/Forms.md
       - Type: Checkpoint
         Path: /html/99-checkpoint.md
-        UID: 868e876f-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0faf4-b3d2-11e8-8fe6-7d01bbf72d0e
         Autoscore: false
   - Title: CSS
-    UID: 868e8770-b3cf-11e8-a5cc-abb59c2f76b4
+    UID: ffd0faf5-b3d2-11e8-8fe6-7d01bbf72d0e
     Description: Add style and form to webpages with CSS
     SuccessCriteria:
       - >-
@@ -367,32 +367,32 @@ Standards:
         selectors, and !important
     ContentFiles:
       - Type: Lesson
-        UID: 868e8771-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0faf6-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /css/00-overview.md
       - Type: Lesson
-        UID: 868e8772-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0faf7-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /css/subtrees/README.md
       - Type: Lesson
-        UID: 868e8773-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0faf8-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /css/02-inspector.md
       - Type: Lesson
-        UID: 868e8774-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0faf9-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /css/03-styling.md
       - Type: Lesson
-        UID: 868e8775-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0fafa-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /css/04-segment-files.md
       - Type: Lesson
-        UID: 868e8776-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0fafb-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /css/05-exercise.md
       - Type: Lesson
-        UID: 868e8777-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0fafc-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /css/06-display.md
       - Type: Checkpoint
         Path: /css/99-checkpoint.md
-        UID: 868e8778-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0fafd-b3d2-11e8-8fe6-7d01bbf72d0e
         Autoscore: false
   - Title: UI Frameworks
-    UID: 868e8779-b3cf-11e8-a5cc-abb59c2f76b4
+    UID: ffd0fafe-b3d2-11e8-8fe6-7d01bbf72d0e
     Description: Add style and form to webpages with CSS
     SuccessCriteria:
       - >-
@@ -400,18 +400,76 @@ Standards:
         nested inside one another
     ContentFiles:
       - Type: Lesson
-        UID: 868e877a-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0faff-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /ui-frameworks/00-overview.md
       - Type: Lesson
-        UID: 868e877b-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0fb00-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /ui-frameworks/01-css-frameworks.md
       - Type: Lesson
-        UID: 868e877c-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0fb01-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /ui-frameworks/02-bootstrap-intro.md
       - Type: Lesson
-        UID: 868e877d-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0fb02-b3d2-11e8-8fe6-7d01bbf72d0e
         Path: /ui-frameworks/03-bootstrap-grid.md
       - Type: Checkpoint
         Path: /ui-frameworks/99-checkpoint.md
-        UID: 868e877e-b3cf-11e8-a5cc-abb59c2f76b4
+        UID: ffd0fb03-b3d2-11e8-8fe6-7d01bbf72d0e
+        Autoscore: false
+  - Title: dom
+    UID: ffd0fb04-b3d2-11e8-8fe6-7d01bbf72d0e
+    Description: Target, create, and manipulate DOM elements & Respond to events with event listeners
+    SuccessCriteria:
+      - Run DOM manipulation code after the DOM has been loaded
+      - 'Remove, find, modify, create, and append DOM elements'
+      - Loop over collections of nodes to manipulate multiple items
+      - >-
+        Fire JavaScript functions using HTML event attributes and event
+        listeners
+      - >-
+        Hijack forms to prevent the default behavior and manipulate values from
+        a form using `event`
+      - Conditionally perform operations with events
+      - >-
+        Build a `render()` function that updates the DOM based on data stored in
+        memory
+    ContentFiles:
+      - Type: Lesson
+        UID: ffd0fb05-b3d2-11e8-8fe6-7d01bbf72d0e
+        Path: /dom/00-overview.md
+      - Type: Lesson
+        UID: ffd0fb06-b3d2-11e8-8fe6-7d01bbf72d0e
+        Path: /subtrees/browser-dom-curriculum/DOM/README.md
+      - Type: Lesson
+        UID: ffd0fb07-b3d2-11e8-8fe6-7d01bbf72d0e
+        Path: /subtrees/browser-dom-curriculum/DOM/02-Traversal.md
+      - Type: Lesson
+        UID: ffd0fb08-b3d2-11e8-8fe6-7d01bbf72d0e
+        Path: /subtrees/browser-dom-curriculum/DOM/03-Manipulation.md
+      - Type: Lesson
+        UID: ffd0fb09-b3d2-11e8-8fe6-7d01bbf72d0e
+        Path: /subtrees/browser-dom-curriculum/DOM/04-Creation and Deletion.md
+      - Type: Lesson
+        UID: ffd0fb0a-b3d2-11e8-8fe6-7d01bbf72d0e
+        Path: /dom/02-loop.md
+      - Type: Lesson
+        UID: ffd0fb0b-b3d2-11e8-8fe6-7d01bbf72d0e
+        Path: /dom/03-exercise.md
+      - Type: Lesson
+        UID: ffd0fb0c-b3d2-11e8-8fe6-7d01bbf72d0e
+        Path: /subtrees/browser-dom-curriculum/DOM/05-Events.md
+      - Type: Lesson
+        UID: ffd0fb0d-b3d2-11e8-8fe6-7d01bbf72d0e
+        Path: /dom/04-prevent-default.md
+      - Type: Lesson
+        UID: ffd0fb0e-b3d2-11e8-8fe6-7d01bbf72d0e
+        Path: /dom/05-conditional.md
+      - Type: Lesson
+        UID: ffd0fb0f-b3d2-11e8-8fe6-7d01bbf72d0e
+        Path: /dom/06-render.md
+      - Type: Lesson
+        UID: ffd0fb10-b3d2-11e8-8fe6-7d01bbf72d0e
+        Path: /dom/07-exercise.md
+      - Type: Checkpoint
+        Path: /dom/99-checkpoint.md
+        UID: ffd0fb11-b3d2-11e8-8fe6-7d01bbf72d0e
         Autoscore: false

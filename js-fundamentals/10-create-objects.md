@@ -22,7 +22,7 @@ Read until Accessing Elements Until Dot notation vs. square bracket notation (Ac
 
 * type: code-snippet
 * language: javascript
-* id: 86b32650-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffee6e01-b3d2-11e8-b5de-9f42ac92f790
 * title: Create Your Own Person Object
 
 ### !question

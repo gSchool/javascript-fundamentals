@@ -19,7 +19,7 @@ can still help improve the readability of your code!
 
 * type: code-snippet
 * language: javascript
-* id: 86b45ed1-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffef5860-b3d2-11e8-b5de-9f42ac92f790
 * title: Switch Statements
 
 ### !question

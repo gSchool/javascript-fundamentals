@@ -9,7 +9,7 @@ This checkpoint will require you to use what you've learned from the previous le
 ### !challenge
 
 * type: project
-* id: 86a19a21-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe40dc0-b3d2-11e8-b5de-9f42ac92f790
 * title: CSS Checkpoint
 * standard_uuids: 63d3362c-f2a2-46f8-b8e9-4fc8d380df86
 

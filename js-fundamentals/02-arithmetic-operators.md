@@ -89,7 +89,7 @@ Remember the acronym [__PEMDAS__](https://en.wikipedia.org/wiki/Order_of_operati
 ### !challenge
 
 * type: multiple-choice
-* id: 86b08e40-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffece760-b3d2-11e8-b5de-9f42ac92f790
 * title: PEMDAS
 
 ##### !question
@@ -120,7 +120,7 @@ Parentheses, Exponents, Multiplication, Division, Addition, Subtraction
 ### !challenge
 
 * type: short-answer
-* id: 86b08e41-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffed0e70-b3d2-11e8-b5de-9f42ac92f790
 * title: Evaluate Modulo
 
 ##### !question
@@ -158,7 +158,7 @@ Because 10 can be evenly divided by 5, the remainder is 0.
 ### !challenge
 
 * type: multiple-choice
-* id: 86b08e42-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffed0e71-b3d2-11e8-b5de-9f42ac92f790
 * title: The Math global object
 
 ##### !question

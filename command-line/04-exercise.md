@@ -8,7 +8,7 @@ This exercise will require you to use what you've learned from the previous less
 ### !challenge
 
 * type: short-answer
-* id: 869eb3f0-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe211f0-b3d2-11e8-b5de-9f42ac92f790
 * title: Directory Navigation
 
 ##### !question
@@ -36,7 +36,7 @@ Correct! The `cd` command followed by `..` navigates you up one level.
 ### !challenge
 
 * type: short-answer
-* id: 869eb3f1-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe211f1-b3d2-11e8-b5de-9f42ac92f790
 * title: Command Options
 
 ##### !question
@@ -64,7 +64,7 @@ Correct! Options come after the dash in a command.
 ### !challenge
 
 * type: short-answer
-* id: 869eb3f2-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe211f2-b3d2-11e8-b5de-9f42ac92f790
 * title: Copying Files
 
 ##### !question
@@ -92,7 +92,7 @@ Correct! Use the `cp` command followed by the path of the file you want to copy,
 ### !challenge
 
 * type: short-answer
-* id: 869edb00-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe211f3-b3d2-11e8-b5de-9f42ac92f790
 * title: Renaming Files
 
 ##### !question
@@ -120,7 +120,7 @@ Correct! Use the `mv` command followed by the file you want to rename, then it's
 ### !challenge
 
 * type: short-answer
-* id: 869edb01-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe211f4-b3d2-11e8-b5de-9f42ac92f790
 * title: Deleting Folders
 
 ##### !question

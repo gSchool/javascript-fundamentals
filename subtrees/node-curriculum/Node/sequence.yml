@@ -1,0 +1,21 @@
+- ContainerType: Unit
+  Title: Node
+  Contents:
+    - Type: Lesson
+      URL: https://github.com/gSchool/g55_learning_path/blob/master/week_7/node.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Node/README.md 
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Node/Modules.md 
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Node/modules-video-1.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Node/modules-video-2.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Node/npm.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Node/HTTP%20Requests.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Node/HTTP%20Server.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Node/linting-with-eslint.md

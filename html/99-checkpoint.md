@@ -9,7 +9,7 @@ This checkpoint will require you to use what you've learned from the previous le
 ### !challenge
 
 * type: project
-* id: 86af7cd0-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffebd5f1-b3d2-11e8-b5de-9f42ac92f790
 * title: Build a Signup Form
 * standard_uuids: WD-CwcNAA0FCQk
 

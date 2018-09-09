@@ -23,7 +23,7 @@ If you find yourself lost at sea, get in touch with an instructor so that they c
 ### !challenge
 
 * type: paragraph
-* id: 86a088b0-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe32360-b3d2-11e8-b5de-9f42ac92f790
 * title: Inputs & Outputs
 * standard_uuids: 9a82361d-d881-4983-bafd-7de560e8a7b6
 
@@ -52,7 +52,7 @@ Thanks! Move on to the next question!
 ### !challenge
 
 * type: short-answer
-* id: 86a088b1-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe32361-b3d2-11e8-b5de-9f42ac92f790
 * title: Command Line Mystery
 * standard_uuids: 9a82361d-d881-4983-bafd-7de560e8a7b6
 
@@ -89,7 +89,7 @@ Correct! Fantastic job getting the solution. Move on to the final part.
 ### !challenge
 
 * type: paragraph
-* id: 86a0afc0-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe32362-b3d2-11e8-b5de-9f42ac92f790
 * title: Reflect
 * standard_uuids: 9a82361d-d881-4983-bafd-7de560e8a7b6
 

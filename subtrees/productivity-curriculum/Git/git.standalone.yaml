@@ -1,0 +1,23 @@
+---
+- ContainerType: Unit
+  Title: Git
+  Description: https://github.com/gSchool/productivity-curriculum/tree/master/Git/README.md
+  Contents:
+  - Type: Lesson
+    URL: https://github.com/gSchool/productivity-curriculum/tree/master/Git/add-commit-push.md
+  - Type: Lesson
+    URL: https://github.com/gSchool/productivity-curriculum/tree/master/Git/dag.md
+  - Type: Lesson
+    URL: https://github.com/gSchool/productivity-curriculum/tree/master/Git/remotes.md
+  - Type: Lesson
+    URL: https://github.com/gSchool/productivity-curriculum/tree/master/Git/fetch-push-and-pull.md
+  - Type: Lesson
+    URL: https://github.com/gSchool/productivity-curriculum/tree/master/Git/branching-and-merging.md
+  - Type: Lesson
+    URL: https://github.com/gSchool/productivity-curriculum/tree/master/Git/advanced_git.md
+  - Type: Lesson
+    URL: https://github.com/gSchool/productivity-curriculum/tree/master/Git/basic_git_workflow.md
+  - Type: Lesson
+    URL: https://github.com/gSchool/productivity-curriculum/tree/master/Git/Feature Branch Workflow.md
+  - Type: Lesson
+    URL: https://github.com/gSchool/productivity-curriculum/tree/master/Git/rebasing.md

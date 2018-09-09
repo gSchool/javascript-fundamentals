@@ -1,0 +1,36 @@
+# Checkpoint
+
+This checkpoint will require you to use what you've learned from the previous lessons. The goal is to gain mastery over this standard, so take some time, review lessons, and ask for help if you need it!
+
+## Instructions
+
+1. Fork and clone this repository: [Browser Calculator](https://github.com/gSchool/browser-calculator)
+
+1. Follow the instructions to complete the project. The *Bonus* sections are just that -- bonus!
+
+1. Push up your code and submit!
+
+## Project
+
+<!-- Question -->
+
+### !challenge
+
+* type: project
+* id: ffe964f2-b3d2-11e8-b5de-9f42ac92f790
+* title: Browser Calculator
+* standard_uuids: 9fd4fd49-78f9-465f-8331-e911041c8e27
+
+##### !question
+
+Follow the instructions above. Once you're done, paste your code below.
+
+##### !end-question
+
+##### !placeholder
+
+https://github.com/<username>/browser-calculator
+
+##### !end-placeholder
+
+### !end-challenge

@@ -19,7 +19,7 @@ If you have to select or move a number of files, it can be a pain to do them all
 ### !challenge
 
 * type: short-answer
-* id: 869e8ce1-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe1eae3-b3d2-11e8-b5de-9f42ac92f790
 * title: Select Multiple Files
 
 ##### !question
@@ -47,7 +47,7 @@ Correct!
 ### !challenge
 
 * type: short-answer
-* id: 869e8ce2-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe1eae4-b3d2-11e8-b5de-9f42ac92f790
 * title: Move Multiple Files
 
 ##### !question

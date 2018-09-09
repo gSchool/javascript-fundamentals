@@ -20,7 +20,7 @@ Redirection refers to commands that allow you to direct the inputs and outputs o
 ### !challenge
 
 * type: short-answer
-* id: 869fc560-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe28720-b3d2-11e8-b5de-9f42ac92f790
 * title: Redirection A
 
 ##### !question
@@ -48,7 +48,7 @@ Correct! You can write to files with `>`. Remember that it will overwrite whatev
 ### !challenge
 
 * type: short-answer
-* id: 869fc561-b3cf-11e8-9c80-3f50f0d4f65c
+* id: ffe28721-b3d2-11e8-b5de-9f42ac92f790
 * title: Redirection B
 
 ##### !question
