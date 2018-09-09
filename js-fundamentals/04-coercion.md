@@ -40,7 +40,7 @@ See the [typeof operator](https://developer.mozilla.org/en-US/docs/Web/JavaScrip
 ### !challenge
 
 * type: multiple-choice
-* id: ffed83a0-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b79240-b3d9-11e8-89b8-f32133e66ea3
 * title: Type Conversion A
 
 ##### !question
@@ -73,7 +73,7 @@ true
 ### !challenge
 
 * type: multiple-choice
-* id: ffed83a1-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b79241-b3d9-11e8-89b8-f32133e66ea3
 * title: Type Conversion B
 
 ##### !question
@@ -106,7 +106,7 @@ true
 ### !challenge
 
 * type: multiple-choice
-* id: ffed83a2-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b79242-b3d9-11e8-89b8-f32133e66ea3
 * title: Type Conversion C
 
 ##### !question
@@ -139,7 +139,7 @@ false
 ### !challenge
 
 * type: multiple-choice
-* id: ffedaab0-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b79243-b3d9-11e8-89b8-f32133e66ea3
 * title: Type Conversion D
 
 ##### !question
@@ -177,7 +177,7 @@ object
 ### !challenge
 
 * type: multiple-choice
-* id: ffedaab1-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b79244-b3d9-11e8-89b8-f32133e66ea3
 * title: Type Conversion E
 
 ##### !question
@@ -215,7 +215,7 @@ string
 ### !challenge
 
 * type: multiple-choice
-* id: ffedaab2-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b79245-b3d9-11e8-89b8-f32133e66ea3
 * title: Type Conversion F
 
 ##### !question

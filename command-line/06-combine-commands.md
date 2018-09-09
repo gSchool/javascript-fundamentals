@@ -19,7 +19,7 @@ Often we will want to run multiple commands at the same time. Chaining operators
 ### !challenge
 
 * type: short-answer
-* id: ffe26010-b3d2-11e8-b5de-9f42ac92f790
+* id: 26aae810-b3d9-11e8-89b8-f32133e66ea3
 * title: Combine Commands A
 
 ##### !question
@@ -47,7 +47,7 @@ Correct! You can combine commands with `&&`
 ### !challenge
 
 * type: short-answer
-* id: ffe26011-b3d2-11e8-b5de-9f42ac92f790
+* id: 26aae811-b3d9-11e8-89b8-f32133e66ea3
 * title: Combine Commands B
 
 ##### !question
@@ -75,7 +75,7 @@ Correct! You can pipe commands with `|`
 ### !challenge
 
 * type: short-answer
-* id: ffe26012-b3d2-11e8-b5de-9f42ac92f790
+* id: 26aae812-b3d9-11e8-89b8-f32133e66ea3
 * title: Combine Commands C
 
 ##### !question

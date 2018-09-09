@@ -9,7 +9,7 @@ This exercise will require you to use what you've learned from the previous less
 ### !challenge
 
 * type: project
-* id: ffe964f1-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b2b040-b3d9-11e8-89b8-f32133e66ea3
 * title: Pixel Art Maker
 
 ##### !question

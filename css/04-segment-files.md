@@ -27,7 +27,7 @@ Some good rules of thumb include:
 ### !challenge
 
 * type: paragraph
-* id: ffe39891-b3d2-11e8-b5de-9f42ac92f790
+* id: 26abd270-b3d9-11e8-89b8-f32133e66ea3
 * title: CSS Best Practices
 
 ### !question

@@ -260,7 +260,7 @@ The following video will help you identify, and speak correctly about, key conce
 ### !challenge
 
 * type: multiple-choice
-* id: ffec7230-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b680d0-b3d9-11e8-89b8-f32133e66ea3
 * title: Primitive Types A
 
 ##### !question
@@ -297,7 +297,7 @@ Look closely. Those double quotation marks are not the same. These kind of quota
 ### !challenge
 
 * type: multiple-choice
-* id: ffec7231-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b680d1-b3d9-11e8-89b8-f32133e66ea3
 * title: Primitive Types B
 
 ##### !question
@@ -334,7 +334,7 @@ Remember that `NaN` is technically of the _type_ number even though it literally
 ### !challenge
 
 * type: multiple-choice
-* id: ffec7232-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b680d2-b3d9-11e8-89b8-f32133e66ea3
 * title: Primitive Types C
 
 ##### !question
@@ -365,7 +365,7 @@ Choose the correct statement.
 ### !challenge
 
 * type: multiple-choice
-* id: ffec7233-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b680d3-b3d9-11e8-89b8-f32133e66ea3
 * title: Reassigning Values A
 
 ##### !question
@@ -404,7 +404,7 @@ cup = mug
 
 * type: code-snippet
 * language: javascript
-* id: ffec7234-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b680d4-b3d9-11e8-89b8-f32133e66ea3
 * title: Create Undefined Variables
 
 ### !question
@@ -453,7 +453,7 @@ When something is `undefined`, it's because you don't know what the value is, ye
 
 * type: code-snippet
 * language: javascript
-* id: ffec9940-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b6a7e0-b3d9-11e8-89b8-f32133e66ea3
 * title: Create Null Variables
 
 ### !question

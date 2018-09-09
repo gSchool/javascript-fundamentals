@@ -17,7 +17,7 @@ This checkpoint will require you to use what you've learned from the previous le
 ### !challenge
 
 * type: project
-* id: ffe964f2-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b2b041-b3d9-11e8-89b8-f32133e66ea3
 * title: Browser Calculator
 * standard_uuids: 9fd4fd49-78f9-465f-8331-e911041c8e27
 

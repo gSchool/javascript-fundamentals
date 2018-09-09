@@ -22,7 +22,7 @@ best way to loop over objects is to use the specialized for in loop.
 
 * type: code-snippet
 * language: javascript
-* id: ffef0a40-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b93ff0-b3d9-11e8-89b8-f32133e66ea3
 * title: for Loops with Arrays
 
 ### !question
@@ -68,7 +68,7 @@ describe('studentCode', function() {
 
 * type: code-snippet
 * language: javascript
-* id: ffef3150-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b93ff1-b3d9-11e8-89b8-f32133e66ea3
 * title: for in Loops
 
 ### !question

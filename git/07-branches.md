@@ -18,7 +18,7 @@ And now you're all ready to learn about the whole git cycle!
 ### !challenge
 
 * type: short-answer
-* id: ffea4f50-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b3e8c0-b3d9-11e8-89b8-f32133e66ea3
 * title: Branching A
 
 ##### !question
@@ -40,7 +40,7 @@ Say you want to create a new branch called `coding`. What command would you writ
 ### !challenge
 
 * type: short-answer
-* id: ffea4f51-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b3e8c1-b3d9-11e8-89b8-f32133e66ea3
 * title: Branching B
 
 ##### !question
@@ -62,7 +62,7 @@ What command would you need to run to go to your `coding` branch?
 ### !challenge
 
 * type: short-answer
-* id: ffea4f52-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b3e8c2-b3d9-11e8-89b8-f32133e66ea3
 * title: Branching C
 
 ##### !question
@@ -84,7 +84,7 @@ What command will list out all local branches?
 ### !challenge
 
 * type: short-answer
-* id: ffea4f53-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b3e8c3-b3d9-11e8-89b8-f32133e66ea3
 * title: Branching D
 
 ##### !question

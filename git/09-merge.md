@@ -14,7 +14,7 @@ When you have a merge conflict -- which will happen! -- it can be a bit scary. F
 ### !challenge
 
 * type: multiple-choice
-* id: ffea7660-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b40fd1-b3d9-11e8-89b8-f32133e66ea3
 * title: Merging Branches A
 
 ### !question
@@ -45,7 +45,7 @@ Run `git merge new-signup-form` from the master branch
 ### !challenge
 
 * type: multiple-choice
-* id: ffea7661-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b436e0-b3d9-11e8-89b8-f32133e66ea3
 * title: Merging Branches B
 
 ### !question

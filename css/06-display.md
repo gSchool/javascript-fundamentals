@@ -20,7 +20,7 @@ The grid system will handle a lot of our layout needs but on a more granular lev
 ### !challenge
 
 * type: short-answer
-* id: ffe3e6b0-b3d2-11e8-b5de-9f42ac92f790
+* id: 26af06c0-b3d9-11e8-89b8-f32133e66ea3
 * title: CSS Display A
 
 ### !question
@@ -42,7 +42,7 @@ An element with a display value of what will stretch as far as it can?
 ### !challenge
 
 * type: project
-* id: ffe3e6b1-b3d2-11e8-b5de-9f42ac92f790
+* id: 26af06c1-b3d9-11e8-89b8-f32133e66ea3
 * title: Making a Nav
 
 ##### !question

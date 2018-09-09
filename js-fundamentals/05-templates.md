@@ -35,7 +35,7 @@ concatenation === templateString // true
 ### !challenge
 
 * type: multiple-choice
-* id: ffedd1c0-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b7b950-b3d9-11e8-89b8-f32133e66ea3
 * title: Template Strings
 
 ##### !question

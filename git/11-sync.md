@@ -35,7 +35,7 @@ Watch the following two videos to learn more about how Git and GitHub are relate
 ### !challenge
 
 * type: paragraph
-* id: ffea9d70-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b45df0-b3d9-11e8-89b8-f32133e66ea3
 * title: Git and GitHub
 
 ### !question
@@ -63,7 +63,7 @@ Thanks! An instructor will follow-up if they have any questions.
 ### !challenge
 
 * type: multiple-choice
-* id: ffea9d71-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b45df1-b3d9-11e8-89b8-f32133e66ea3
 * title: Git Push, Fetch, and Pull A
 
 ### !question
@@ -93,7 +93,7 @@ The `pull` command is the combination of what two other commands?
 ### !challenge
 
 * type: short-answer
-* id: ffea9d72-b3d2-11e8-b5de-9f42ac92f790
+* id: 26b48500-b3d9-11e8-89b8-f32133e66ea3
 * title: Git Push, Fetch, and Pull B
 
 ##### !question
