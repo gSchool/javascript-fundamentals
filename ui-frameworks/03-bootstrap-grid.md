@@ -6,7 +6,6 @@
 Instead of starting from scratch, we'll be using a CSS Framework to build our pages. CSS Frameworks often rely upon a grid system to structure layout.
 
 * [What is a CSS Grid (Video)](https://youtu.be/0IrWRuEyXYA)
-* [Introduction to Bootstrap](https://learn.galvanize.com/content/gSchool/html-css-curriculum/master/CSS/Frameworks/Bootstrap.md)
 * [Nesting Rows & Columns](https://getbootstrap.com/docs/4.0/layout/grid/#nesting)
 
 CSS Frameworks come in all kinds of different flavors, but the grid system is standard across many of them.
