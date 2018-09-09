@@ -415,7 +415,7 @@ Standards:
         Path: /ui-frameworks/99-checkpoint.md
         UID: ffd0fb03-b3d2-11e8-8fe6-7d01bbf72d0e
         Autoscore: false
-  - Title: dom
+  - Title: DOM Manipulation
     UID: ffd0fb04-b3d2-11e8-8fe6-7d01bbf72d0e
     Description: Target, create, and manipulate DOM elements & Respond to events with event listeners
     SuccessCriteria:
