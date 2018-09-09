@@ -313,3 +313,43 @@ Standards:
         UID: 909700db-b3c3-11e8-89bc-75dfb50e6e30
         Path: /js-fundamentals/99-checkpoint.md
         Autoscore: false
+  - Title: HTML
+    UID: WD-CwcNAA0FCQk
+    Description: Write valid and semantic HTML to form the basic structure of a webpage
+    SuccessCriteria:
+      - HTML is properly indented
+      - >-
+        HTML contains a head and a body, tags are properly closed except for
+        single tag elements, and is overall valid
+      - HTML relies on semantic tags
+      - >-
+        HTML attributes and values are used to create images, links, unique ids,
+        and inline style
+      - 'Forms are valid and includes labels with inputs, ids, and names'
+      - Checkboxes and radio buttons are grouped and labeled
+    ContentFiles:
+      - Type: Lesson
+        UID: 6f8d3ab3-fc37-42a1-98a7-9b0a175c750a
+        Path: /html/00-overview.md
+      - Type: Lesson
+        UID: 090b1a0e-c08a-49f7-835e-fd93c3930f4f
+        Path: /html/01-indentation.md
+      - Type: Lesson
+        UID: 5665d457-6291-45fe-92ac-1ed95aaccbc1
+        Path: /html/subtrees/README.md
+      - Type: Lesson
+        UID: da698720-bb49-4df6-a39d-b36766898bdb
+        Path: /html/subtrees/Semantic.md
+      - Type: Lesson
+        UID: 3e3d80d2-e1eb-420b-8b32-98a2307022ec
+        Path: /html/04-attributes.md
+      - Type: Lesson
+        UID: 45cf48f2-cc4b-4359-b8fd-0cb749f83515
+        Path: /html/05-form-basics.md
+      - Type: Lesson
+        UID: c4e50df4-1d34-43ca-b318-a5cea415ae05
+        Path: /html/subtrees/Forms.md
+      - Type: Checkpoint
+        Path: /html/99-checkpoint.md
+        UID: e909d2a0-644b-11e8-9ee1-2b508e7ed122
+        Autoscore: false
