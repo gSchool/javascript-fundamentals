@@ -11,7 +11,7 @@ This checkpoint will require you to use what you've learned from the previous le
 * type: project
 * id: aee7ebb1-b3d9-11e8-92ed-57e3f4477ba5
 * title: Galvanize Personnel
-* standard_uuids: WD-AAwCCAgEAwQ
+* standard_uuids: aed945c5-b3d9-11e8-ac02-d96c12bddf08
 
 ##### !question
 

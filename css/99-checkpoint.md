@@ -11,7 +11,7 @@ This checkpoint will require you to use what you've learned from the previous le
 * type: project
 * id: aeec3170-b3d9-11e8-92ed-57e3f4477ba5
 * title: CSS Checkpoint
-* standard_uuids: 63d3362c-f2a2-46f8-b8e9-4fc8d380df86
+* standard_uuids: aed91ec6-b3d9-11e8-ac02-d96c12bddf08
 
 ##### !question
 

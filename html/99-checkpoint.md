@@ -11,7 +11,7 @@ This checkpoint will require you to use what you've learned from the previous le
 * type: project
 * id: aef16190-b3d9-11e8-92ed-57e3f4477ba5
 * title: Build a Signup Form
-* standard_uuids: WD-CwcNAA0FCQk
+* standard_uuids: aed91ebd-b3d9-11e8-ac02-d96c12bddf08
 
 ##### !question
 

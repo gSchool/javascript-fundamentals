@@ -25,7 +25,7 @@ If you find yourself lost at sea, get in touch with an instructor so that they c
 * type: paragraph
 * id: aee97250-b3d9-11e8-92ed-57e3f4477ba5
 * title: Inputs & Outputs
-* standard_uuids: 9a82361d-d881-4983-bafd-7de560e8a7b6
+* standard_uuids: aed85b5f-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -54,7 +54,7 @@ Thanks! Move on to the next question!
 * type: short-answer
 * id: aee99960-b3d9-11e8-92ed-57e3f4477ba5
 * title: Command Line Mystery
-* standard_uuids: 9a82361d-d881-4983-bafd-7de560e8a7b6
+* standard_uuids: aed85b5f-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -91,7 +91,7 @@ Correct! Fantastic job getting the solution. Move on to the final part.
 * type: paragraph
 * id: aee99961-b3d9-11e8-92ed-57e3f4477ba5
 * title: Reflect
-* standard_uuids: 9a82361d-d881-4983-bafd-7de560e8a7b6
+* standard_uuids: aed85b5f-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 

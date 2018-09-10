@@ -12,7 +12,7 @@ This checkpoint will require you to use what you've learned from the previous le
 * language: javascript
 * id: aef6b8c0-b3d9-11e8-92ed-57e3f4477ba5
 * title: doubleNumbers
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -59,7 +59,7 @@ describe('doubleNumbers', function() {
 * language: javascript
 * id: aef6b8c1-b3d9-11e8-92ed-57e3f4477ba5
 * title: multiplyNumbers
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -110,7 +110,7 @@ describe('multiplyNumbers', function() {
 * language: javascript
 * id: aef6b8c2-b3d9-11e8-92ed-57e3f4477ba5
 * title: doubleLetters
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 Write function named doubleLetters that will take a string and double every letter in the string
@@ -157,7 +157,7 @@ describe('doubleLetters', function() {
 * language: javascript
 * id: aef6b8c3-b3d9-11e8-92ed-57e3f4477ba5
 * title: interleave
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 Write function named interleave that will take two arrays and interleaves them
@@ -205,7 +205,7 @@ describe('interleave', function() {
 * language: javascript
 * id: aef6dfd0-b3d9-11e8-92ed-57e3f4477ba5
 * title: createRange
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 Write function named createRange that will take a number and a default value and return an array of that many values
@@ -253,7 +253,7 @@ describe('createRange', function() {
 * language: javascript
 * id: aef6dfd1-b3d9-11e8-92ed-57e3f4477ba5
 * title: flipArray
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -302,7 +302,7 @@ describe('flipArray', function() {
 * language: javascript
 * id: aef6dfd2-b3d9-11e8-92ed-57e3f4477ba5
 * title: arraysToObject
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -349,7 +349,7 @@ describe('arraysToObject', function() {
 * language: javascript
 * id: aef6dfd3-b3d9-11e8-92ed-57e3f4477ba5
 * title: reverseString
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 Write function named reverseString that will reverse a string without calling the built-in `.split` or `.reverse` methods.
@@ -401,7 +401,7 @@ describe('reverseString', function() {
 * language: javascript
 * id: aef6dfd4-b3d9-11e8-92ed-57e3f4477ba5
 * title: repeats
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -461,7 +461,7 @@ describe('repeats', function() {
 * language: javascript
 * id: aef706e0-b3d9-11e8-92ed-57e3f4477ba5
 * title: everyOther
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 Write a function named everyOther that returns every other character in the string
@@ -514,7 +514,7 @@ describe('everyOther', function() {
 * language: javascript
 * id: aef706e1-b3d9-11e8-92ed-57e3f4477ba5
 * title: allEqual
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -569,7 +569,7 @@ describe('allEqual', function() {
 * language: javascript
 * id: aef706e2-b3d9-11e8-92ed-57e3f4477ba5
 * title: sumLetters
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -619,7 +619,7 @@ describe('sumLetters', function() {
 * language: javascript
 * id: aef706e3-b3d9-11e8-92ed-57e3f4477ba5
 * title: countVowels
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -668,7 +668,7 @@ describe('countVowels', function() {
 * language: javascript
 * id: aef706e4-b3d9-11e8-92ed-57e3f4477ba5
 * title: split
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -723,7 +723,7 @@ describe('split', function() {
 * language: javascript
 * id: aef72df0-b3d9-11e8-92ed-57e3f4477ba5
 * title: getCodePoints
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -774,7 +774,7 @@ describe('getCodePoints', function() {
 * language: javascript
 * id: aef72df1-b3d9-11e8-92ed-57e3f4477ba5
 * title: letterMap
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -825,7 +825,7 @@ describe('letterMap', function() {
 * language: javascript
 * id: aef72df2-b3d9-11e8-92ed-57e3f4477ba5
 * title: letterCount
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -876,7 +876,7 @@ describe('letterCount', function() {
 * language: javascript
 * id: aef72df3-b3d9-11e8-92ed-57e3f4477ba5
 * title: threeOdds
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -934,7 +934,7 @@ describe('threeOdds', function() {
 * language: javascript
 * id: aef72df4-b3d9-11e8-92ed-57e3f4477ba5
 * title: createString
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -985,7 +985,7 @@ describe('createString', function() {
 * language: javascript
 * id: aef75500-b3d9-11e8-92ed-57e3f4477ba5
 * title: factorial
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1041,7 +1041,7 @@ describe('factorial', function() {
 * language: javascript
 * id: aef75501-b3d9-11e8-92ed-57e3f4477ba5
 * title: arrayOfNumbers
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1095,7 +1095,7 @@ describe('arrayOfNumbers', function() {
 * language: javascript
 * id: aef75502-b3d9-11e8-92ed-57e3f4477ba5
 * title: evenOdd
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1144,7 +1144,7 @@ describe('evenOdd', function() {
 * language: javascript
 * id: aef75503-b3d9-11e8-92ed-57e3f4477ba5
 * title: growingKeys
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1194,7 +1194,7 @@ describe('growingKeys', function() {
 * language: javascript
 * id: aef75504-b3d9-11e8-92ed-57e3f4477ba5
 * title: every
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1253,7 +1253,7 @@ describe('every', function() {
 * language: javascript
 * id: aef77c10-b3d9-11e8-92ed-57e3f4477ba5
 * title: some
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 Write a function named some that takes an array and a value and returns true if at least one element of the array equals the value
@@ -1311,7 +1311,7 @@ describe('some', function() {
 * language: javascript
 * id: aef77c11-b3d9-11e8-92ed-57e3f4477ba5
 * title: toSentence
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1366,7 +1366,7 @@ describe('toSentence', function() {
 * language: javascript
 * id: aef77c12-b3d9-11e8-92ed-57e3f4477ba5
 * title: acronym
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1416,7 +1416,7 @@ describe('acronym', function() {
 * language: javascript
 * id: aef77c13-b3d9-11e8-92ed-57e3f4477ba5
 * title: index
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1477,7 +1477,7 @@ describe('index', function() {
 * language: javascript
 * id: aef77c14-b3d9-11e8-92ed-57e3f4477ba5
 * title: invert
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1530,7 +1530,7 @@ describe('invert', function() {
 * language: javascript
 * id: aef7a320-b3d9-11e8-92ed-57e3f4477ba5
 * title: addSignature
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1599,7 +1599,7 @@ describe('addSignature', function() {
 * language: javascript
 * id: aef7a321-b3d9-11e8-92ed-57e3f4477ba5
 * title: pairs
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1648,7 +1648,7 @@ describe('pairs', function() {
 * language: javascript
 * id: aef7a322-b3d9-11e8-92ed-57e3f4477ba5
 * title: sumValues
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1701,7 +1701,7 @@ describe('sumValues', function() {
 * language: javascript
 * id: aef7a323-b3d9-11e8-92ed-57e3f4477ba5
 * title: biggestProperty
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1754,7 +1754,7 @@ describe('biggestProperty', function() {
 * language: javascript
 * id: aef7ca30-b3d9-11e8-92ed-57e3f4477ba5
 * title: keyForValue
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 
@@ -1803,7 +1803,7 @@ describe('keyForValue', function() {
 * language: javascript
 * id: aef7ca31-b3d9-11e8-92ed-57e3f4477ba5
 * title: containsValue
-* standard_uuids: WD-AAEBCAgBDQk
+* standard_uuids: aed8827c-b3d9-11e8-ac02-d96c12bddf08
 
 ### !question
 

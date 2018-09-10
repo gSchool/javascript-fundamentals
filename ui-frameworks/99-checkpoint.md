@@ -11,7 +11,7 @@ This checkpoint will require you to use what you've learned from the previous le
 * type: project
 * id: aef8b492-b3d9-11e8-92ed-57e3f4477ba5
 * title: Building Layouts
-* standard_uuids: a8d4ed78-1b59-44fe-a23c-7fca32f58ca1
+* standard_uuids: aed945b1-b3d9-11e8-ac02-d96c12bddf08
 
 ##### !question
 

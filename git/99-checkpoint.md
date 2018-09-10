@@ -11,7 +11,7 @@ This checkpoint will require you to use what you've learned from the previous le
 * type: project
 * id: aef0ec60-b3d9-11e8-92ed-57e3f4477ba5
 * title: Git and Github
-* standard_uuids: d10aeae0-eb89-4275-b0cd-f59cd8f888fc
+* standard_uuids: aed8826b-b3d9-11e8-ac02-d96c12bddf08
 
 ##### !question
 

@@ -14,7 +14,7 @@ Please remember that you are not allowed to ask for help from fellow students wh
 * type: project
 * id: aee812c0-b3d9-11e8-92ed-57e3f4477ba5
 * title: Q1 Assessment - Playlist
-* standard_uuids: 8405ed36-23dd-4350-82c2-9d55d35d704b
+* standard_uuids: aed945cb-b3d9-11e8-ac02-d96c12bddf08
 
 
 ##### !question

@@ -19,7 +19,7 @@ This checkpoint will require you to use what you've learned from the previous le
 * type: project
 * id: aeef3eb0-b3d9-11e8-92ed-57e3f4477ba5
 * title: Browser Calculator
-* standard_uuids: 9fd4fd49-78f9-465f-8331-e911041c8e27
+* standard_uuids: aed945b7-b3d9-11e8-ac02-d96c12bddf08
 
 ##### !question
 
