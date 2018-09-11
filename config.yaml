@@ -309,6 +309,9 @@ Standards:
       - Type: Lesson
         UID: aed91ebb-b3d9-11e8-ac02-d96c12bddf08
         Path: /js-fundamentals/29-more-accumulator-uses.md
+      - Type: Lesson
+        UID: 3c212d02-aaa5-4a54-a476-58ee75b84a54
+        Path: /js-fundamentals/30-exercise.md
       - Type: Checkpoint
         UID: aed91ebc-b3d9-11e8-ac02-d96c12bddf08
         Path: /js-fundamentals/99-checkpoint.md
@@ -349,6 +352,9 @@ Standards:
       - Type: Lesson
         UID: aed91ec4-b3d9-11e8-ac02-d96c12bddf08
         Path: /html/subtrees/Forms.md
+      - Type: Lesson
+        UID: 8d3ae32f-72c5-4fd2-8fbb-70fa5bbb8550
+        Path: /html/06-exercise.md
       - Type: Checkpoint
         Path: /html/99-checkpoint.md
         UID: aed91ec5-b3d9-11e8-ac02-d96c12bddf08

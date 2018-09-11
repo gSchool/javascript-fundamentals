@@ -34,7 +34,7 @@ What comes back?
 
 ### !answer
 
-/.*learn*.galvanize.com.*/i
+/.*learn-2*.galvanize.com.*/i
 
 ### !end-answer
 

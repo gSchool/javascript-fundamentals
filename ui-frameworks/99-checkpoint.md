@@ -15,7 +15,7 @@ This checkpoint will require you to use what you've learned from the previous le
 
 ##### !question
 
-### CSS Layout Checkpoint
+### UI Frameworks Checkpoint
 
 * [Repository](https://github.com/gSchool/BootstrapMocksAssignment)
 
