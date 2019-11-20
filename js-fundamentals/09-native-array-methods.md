@@ -8,14 +8,23 @@ By the end of this lesson you will be able to:
 
 ## Resources
 
-If datatypes are the "nouns" of JavaScript, then methods can be thought of
-as the "verbs" of JavaScript. Array's have many useful built in methods to add
-and remove elements. One of the most popular sources of documentation for JavaScript
-is the MDN. In the attached article, specifically read about push, pop, shift, and unshift, but
-feel free to browse through some of the other methods as well!
 
-* [Galvanize: Native Array Methods](https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/03_Arrays_Objects_Iteration.md#native-array-and-object-methods)
+### Array
+
+Every array has access to a set of default properties and methods. Instead of exploring all of them now, we're going to explore the most frequently used, especially in the beginning:
+
+ - `length`
+ - `push([value])`
+ - `pop()`
+ - `slice(startIndex, endIndex)`
+ - `splice(startIndex, count)`
+ - `indexOf(element)`
+
+First, [open this link in a new window](https://goo.gl/COHJVm), and step through the code. It should illuminate how these methods function.
+
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
+After seeing the visualization from the link above, answer these questions:
 
 ## Challenges
 

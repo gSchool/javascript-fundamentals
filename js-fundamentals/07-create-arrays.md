@@ -6,12 +6,29 @@ By the end of this lesson you will be able to:
 
 * Create arrays with and without elements using the array literal syntax
 
-## Resources
+## Arrays
 
-The most basic way to create arrays is by using array literal syntax.
+Arrays describe a set of elements in a particular order. Arrays in Javascript are declared using square brackets. The simplest array is one with nothing in it:
 
-Read until Accessing Elements
-[Galvanize: Creating Arrays](https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/03_Arrays_Objects_Iteration.md)
+```javascript
+var arr = [];
+```
+
+The syntax we're using to create our array is referred to as an **array literal**. To be more specific, we would describe the above example as an empty array literal. We call it a **literal** because we use `[]` instead of `new Array()`. We describe it as empty because arrays are designed to store sequences of data, and this has no data.
+
+Let's create an array literal and store four strings inside of it:
+
+```javascript
+var cats = ["Elie", "Janey", "Matt", "Parker", "Tim"];
+```
+
+For the syntax to be valid, each value needs to be **delimited** with commas.
+
+Note that the above array happened to have all strings in it, but in Javascript it's not necessary that each element in an array have the same type. This array is also perfectly valid:
+
+```javascript
+var junkArray = ["hi", 3, null, [1, 2, 3], true, "bye"];
+```
 
 ## Challenges
 

@@ -6,12 +6,62 @@ By the end of this lesson you will be able to:
 
 * Use conditionals to branch code
 
-## Resources
+## Why do we need Conditionals and Loops?
 
-While loops allow things to happen multiple times, conditionals will potentially allow
-things to not happen at all. This adds a lot of options for your code!
+Programs are of course more complex than one-line statements and variable assignment. If we want to control programs that change based on the parameters of the program (eg, in response to user input), we'll need a way to tell our program when to do what.
 
-* (Read until Loops) [Galvanize: Control Flow](https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/02_Control_Flow.md)
+Enter **Control Structures**.
+
+Control Structures are a way of controlling what statements are executed. We can execute statements **IF** something happens. **IF** something has not happened, we can do something **ELSE**. **WHILE** something is happening, we can execute statements, or we can execute them **FOR** a specific number of *iterations*.
+
+> To **iterate** means "perform or utter repeatedly."
+
+## Conditionals
+
+Conditionals control the flow of a program.  Conditionals decide which code statements gets run based on some **Boolean** input to the conditional.  An example from everyday life would be:
+
+> If you spend $100 or more, then you get 20% off, otherwise the purchase is full price
+
+In the example above, the input to the conditional is whether or not the total amount of your purchase is greater than or equal to $100.
+
+### If statements
+
+The most basic control flow statement is the `if` statement.  Here is our example from above in code:
+
+```javascript
+var total = 284;
+
+if (total >= 100) {
+  total = total * .8;
+}
+
+// Display the total to the user
+console.log('Your total is: $' + total.toFixed(2));
+```
+
+Let's practice with some other if statements!
+
+```javascript
+if (1 + 1 === 2) {
+  console.log('Arithmetic is the best');
+}
+
+if (1 + 1 !== 2) {
+  console.log('Math is broken.');
+}
+```
+
+We can also combine these two statements using `if...else`:
+
+```javascript
+if (1 + 1 === 2) {
+  console.log('Arithmetic is the best');
+} else {
+  console.log('Math is broken');
+}
+```
+
+See the [operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence) documentation on the Mozilla Developer Network for more information.
 
 ## Challenges
 

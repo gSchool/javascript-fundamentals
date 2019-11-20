@@ -6,11 +6,50 @@ By the end of this lesson you will be able to:
 
 * Write functions that return values and assign those values
 
-## Resources
+### The keyword `return`
 
-Functions are used to return values for use in other parts of our programs. It is the essential keyword for functions!
+You may have noticed that when we invoked `greet()`, the console logged the value `undefined`. This points to an important part of how functions are designed. Every function **returns** a value. If you do not specify a `return` statement, then it will return `undefined`.
 
-* (Read until Parameters and Arguments) [Galvanize: Functions](https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/04_Functions.md#user-content-the-keyword-return)
+Logging is similar to a chef following a recipe and shouting when he executes one of the steps of the recipe; moreover, a chef yelling each step isn’t the same as a chef creating our meal and then returning a meal to us. Imagine you order a dish and you can hear the chef calling out each step, but no one ever gives you the dish.
+
+If you want to add instructions on what a function should return, you'll need to use the keyword `return`. Return looks like this:
+
+```javascript
+function greet() {
+  console.log("Hello, World!");
+  return "You told me to return.";
+}
+
+greet()
+// The console will print:
+// "Hello, World!"
+// "You told me to return." - This is where undefined was
+```
+
+The keyword `return`, followed by _any valid [JavaScript Expression](./01_Variables_and_DataTypes.md)_. You can have a string, as above, or you can add numbers, a series of numbers and operators (`2 + 7 / 3`) or even `null`.
+
+Take note that `return` has special behavior associated with it. The most notable is that once a function executes a `return` statement, all code succeeding it in a function never gets executed. In other words, be careful where and when you use `return`:
+
+```javascript
+function greet() {
+  return "You'll never reach the console.log() message.";
+  console.log("Hello, World!");
+}
+
+greet();
+// "You'll never reach the console.log() message."
+```
+
+```js
+function twoReturns() {
+  return "I'm the only return that gets executed";
+  return "You told me to return.";
+  console.log("Hello, World!");
+}
+
+twoReturns()
+// "I'm the only return that gets executed";
+```
 
 ## Challenges
 

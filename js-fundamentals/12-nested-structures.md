@@ -6,13 +6,52 @@ By the end of this lesson you will be able to:
 
 * Create, access, and manipulate arrays/objects inside of arrays/objects
 
-## Resources
 
-You can not only place arrays in objects, but you can also place objects in arrays. This
-can nest as deeply as you have the memory to support!
+## Creating Nested Values
 
-Read until Accessing Elements
-[Galvanize: Creating Arrays](https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/03_Arrays_Objects_Iteration.md#reading-nested-values)
+In the near future, you'll find yourself working with nested reference types. This describes deeply nested values, such as an array storing objects, which store objects and arrays, which can store more arrays, etc.
+
+```javascript
+var superheroes = [
+	{
+    name: "Spider-Man",
+		alterEgo: {
+			first: "Peter",
+			last: "Parker"
+		},
+		age: 15,
+		address: {
+			country: "USA",
+			city: "New York"
+		},
+		favoriteColors: ["blue", "red"]
+	},
+	{
+    name: "Batman",
+		alterEgo: {
+			first: "Bruce",
+			last: "Wayne"
+		},
+		age: 32,
+		address: {
+			country: "USA",
+			city: "Gotham"
+		},
+		favoriteColors: ["black", "yellow"]
+	}
+];
+
+superheroes[1].alterEgo.first; // "Bruce"
+superheroes[0].favoriteColors[1]; // "red"
+superheroes[1].age; // 32
+```
+
+## Reading Nested Values
+
+Reading deeply nested values is a very important technique. If you want to include tweets in one of your future web apps, daily forecasts, or most other data from a third-party source of data, you'll need to know how to read deeply nested data.
+
+For this reason, you need to gain comfort navigating and finding data anywhere in a deeply nested value.
+
 
 ## Challenges
 

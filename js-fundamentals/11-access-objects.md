@@ -6,13 +6,61 @@ By the end of this lesson you will be able to:
 
 * Access, replace, and add new values with bracket notation and dot notation
 
-## Resources
+### Dot notation vs. square bracket notation (Access)
 
-Objects also have the ability to be accessed and updated.
+To read the value of a key-value pair, we need to use dot notation or square bracket notation:
 
-Read until Native Array and Object methods
+```javascript
+var cat = {};
+cat.firstName = "Felix";
+cat.lastName = "The Cat";
 
-[Galvanize: Accessing Objects](https://github.com/gSchool/javascript-curriculum/blob/master/10_Syntax/03_Arrays_Objects_Iteration.md#dot-notation-vs-square-bracket-notation-access)
+console.log(cat);
+// {firstName: "Felix", lastName: "The Cat"}
+
+console.log(cat.firstName);  // "Felix"
+console.log(cat["firstName"]); // "Felix"
+
+console.log(cat.lastName); // "The Cat"
+console.log(cat["lastName"]); // "The Cat"
+```
+
+Notice that we had to use quotation marks with the square bracket notation. If we didn't include the quotation marks, the JavaScript interpreter would mistake `firstName` and `lastName` to be variables, the contents of which are not associated with the `cat` object. An example will help elaborate this point:
+
+```javascript
+var cat = {
+	firstName: "Felix",
+	lastName: "The Cat"
+};
+
+var firstName = "Boooo";
+
+console.log(cat.firstName);  // "Felix"
+console.log(cat["firstName"]);  // "Felix"
+console.log(cat[firstName]); // undefined (analogous to cat["Boooo"])
+
+var foo = "firstName";
+console.log(cat.foo); // undefined (cat has no value corresponding to the key of foo!)
+console.log(cat[foo]); // "Felix"
+```
+
+### Delete key-value pairs
+
+We can delete a key-value pair with the following syntax:
+
+```
+var person = {
+  firstName: "Bruce",
+  lastName: "Wayne"
+};
+
+delete person.firstName;
+
+person
+// {lastName: "Wayne"};
+```
+
+Deleting requires us to include the keyword `delete` in front of a key-value pair.
 
 ## Challenges
 
