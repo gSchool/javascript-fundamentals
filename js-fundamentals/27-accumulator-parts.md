@@ -41,11 +41,8 @@ One of the first and most important is to learn the Accumulator Pattern.
 1. Start with the exercises in this unit.
   - Get as far as you can - don't worry if even the first problem is not doable
 1. Finish reading the articles from this
-1. Continue working through the exercises, looking back at these articles as you run into trouble
-  - Get as far as you can
-  - If you are struggling with choosing initial values [read this](./Choosing Initial Values.md)
-  - If you are struggling with altering the accumulator [read this](./Altering the Accumulator.md)
-  - If you are struggling with figuring out how to iterate [read this](./Iterating.md)
+1. Continue working through the exercises.
+
 
 ## How to get started
 

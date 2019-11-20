@@ -26,7 +26,7 @@ greet()
 // "You told me to return." - This is where undefined was
 ```
 
-The keyword `return`, followed by _any valid [JavaScript Expression](./01_Variables_and_DataTypes.md)_. You can have a string, as above, or you can add numbers, a series of numbers and operators (`2 + 7 / 3`) or even `null`.
+The keyword `return` may be followed by any valid JavaScript Expression. You can have a string, as above, or you can add numbers, a series of numbers and operators (`2 + 7 / 3`) or even `null`.
 
 Take note that `return` has special behavior associated with it. The most notable is that once a function executes a `return` statement, all code succeeding it in a function never gets executed. In other words, be careful where and when you use `return`:
 
