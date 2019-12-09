@@ -59,7 +59,6 @@ describe('fizzbuzz', function() {
 * id: aef53221-b3d9-11e8-92ed-57e3f4477ba5
 * title: JS Iterations and Conditionals
 * upstream: https://github.com/gSchool/js-loops-and-conditionals-assessment
-* validate_fork: true
 
 ##### !question
 
