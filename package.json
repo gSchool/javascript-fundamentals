@@ -1,0 +1,24 @@
+{
+  "name": "web-fundamentals-block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update_uids.js",
+  "scripts": {
+    "update-uids": "node update_uids.js && node update_project_uids.js",
+    "push-changes": "func(){ git add . && git commit -m \"$1\" && git push origin phx-updates; }; func"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/web-fundamentals-block.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/web-fundamentals-block/issues"
+  },
+  "homepage": "https://github.com/gSchool/web-fundamentals-block#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}

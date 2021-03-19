@@ -1,16 +1,318 @@
 ---
 Title: Web Fundamentals
 Standards:
-  - Title: Command Line
-    UID: fca6352c-c82f-4953-a1e1-7a1647513bd2
-    Description: placeholder
+  - Title: Development Environment
+    UID: aed83440-b3d9-11e8-ac02-d96c12bddf08
+    Description: Customize the command line for increased productivity
     SuccessCriteria:
-      - placeholder
+      - Install and configure the Slack Application
+      - Install and/or configure a terminal program
+      - Install and/or configure a window management tool
+      - Score 25wpm or higher on typing.io with JavaScript
+      - Install an operating system package manager
+      - Install a text editor
+      - Install Node.js
+      - Install Git
+      - Customize command line prompt with zsh themes
+      - Print environment variables to the console
+      - >-
+        Define new environment variables for the existing terminal session and
+        for future terminal sessions
+      - Run JavaScript in the browser console
+      - Run JavaScript files with node and the repl
     ContentFiles:
       - Type: Lesson
-        Path: /command-line/00-overview.md
-        UID: 54f77abd-4158-47d3-a8e1-de135a322b97
+        UID: aed85b50-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/00-overview.md
+      - Type: Lesson
+        UID: aed85b51-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/01-slack.md
+      - Type: Lesson
+        UID: aed85b52-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/02-terminal.md
+      - Type: Lesson
+        UID: aed85b53-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/03-window-management.md
+      - Type: Lesson
+        UID: aed85b54-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/04-typing.md
+      - Type: Lesson
+        UID: aed85b55-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/05-homebrew.md
+      - Type: Lesson
+        UID: aed85b56-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/06-text-editor.md
+      - Type: Lesson
+        UID: aed85b57-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/07-node.md
+      - Type: Lesson
+        UID: aed85b58-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/08-git.md
+      - Type: Lesson
+        UID: aed85b59-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/09-zsh.md
+      - Type: Lesson
+        UID: aed85b5a-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/10-print.md
+      - Type: Lesson
+        UID: aed85b5b-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/11-set.md
+      - Type: Lesson
+        UID: aed85b5c-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/12-browser-console.md
+      - Type: Lesson
+        UID: aed85b5d-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/13-node.md
       - Type: Checkpoint
+        UID: aed85b5e-b3d9-11e8-ac02-d96c12bddf08
+        Path: /dev-environment/99-checkpoint.md
+        Autoscore: false
+  - Title: Command Line
+    UID: aed85b5f-b3d9-11e8-ac02-d96c12bddf08
+    Description: Navigate & manipulate the file system via the command line
+    SuccessCriteria:
+      - Traverse the file system using both relative and absolute paths
+      - 'Create, move, rename, and delete files and directories'
+      - Use the wildcard character to perform complex operations
+      - Read files from the command line
+      - Combine multiple commands
+      - Redirect content from one file or command to another
+      - Open and exit Vim
+    ContentFiles:
+      - Type: Lesson
+        UID: aed88260-b3d9-11e8-ac02-d96c12bddf08
+        Path: /command-line/00-overview.md
+      - Type: Lesson
+        UID: aed88261-b3d9-11e8-ac02-d96c12bddf08
+        Path: /command-line/01-traverse.md
+      - Type: Lesson
+        UID: aed88262-b3d9-11e8-ac02-d96c12bddf08
+        Path: /command-line/02-manipulate.md
+      - Type: Lesson
+        UID: aed88263-b3d9-11e8-ac02-d96c12bddf08
+        Path: /command-line/03-wildcard.md
+      - Type: Lesson
+        UID: aed88264-b3d9-11e8-ac02-d96c12bddf08
+        Path: /command-line/04-exercise.md
+      - Type: Lesson
+        UID: aed88265-b3d9-11e8-ac02-d96c12bddf08
+        Path: /command-line/05-read.md
+      - Type: Lesson
+        UID: aed88266-b3d9-11e8-ac02-d96c12bddf08
+        Path: /command-line/06-combine-commands.md
+      - Type: Lesson
+        UID: aed88267-b3d9-11e8-ac02-d96c12bddf08
+        Path: /command-line/07-redirection.md
+      - Type: Lesson
+        UID: aed88268-b3d9-11e8-ac02-d96c12bddf08
+        Path: /command-line/08-basic-vim.md
+      - Type: Lesson
+        UID: aed88269-b3d9-11e8-ac02-d96c12bddf08
+        Path: /command-line/09-exercise.md
+      - Type: Checkpoint
+        UID: aed8826a-b3d9-11e8-ac02-d96c12bddf08
         Path: /command-line/99-checkpoint.md
-        UID: 5319e820-8702-475f-b448-b9a411edd8e3
+        Autoscore: false
+  - Title: Git
+    UID: aed8826b-b3d9-11e8-ac02-d96c12bddf08
+    Description: Utilize Git for version control
+    SuccessCriteria:
+      - Initialize and delete local git repositories
+      - 'Stage, commit, and see the diff of files'
+      - Log git history
+      - Make new branches and develop work on those branches
+      - Follow a feature/branch workflow
+      - Solve merge conflicts
+      - Synchronize a local git repository and a GitHub repository
+      - 'Add, remove, and modify remotes'
+      - Fork and clone a repository you do not own
+      - Pull new additions from a forked repository
+    ContentFiles:
+      - Type: Lesson
+        UID: aed8826c-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/00-overview.md
+      - Type: Lesson
+        UID: aed8826d-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/01-git-concepts.md
+      - Type: Lesson
+        UID: aed8826e-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/02-submitting-assignments.md
+      - Type: Lesson
+        UID: aed8826f-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/03-exercise.md
+      - Type: Lesson
+        UID: aed88270-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/04-init-remove.md
+      - Type: Lesson
+        UID: aed88271-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/05-stage-commit-diff.md
+      - Type: Lesson
+        UID: aed88272-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/06-log.md
+      - Type: Lesson
+        UID: aed88273-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/07-branches.md
+      - Type: Lesson
+        UID: aed88274-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/08-feature-branch.md
+      - Type: Lesson
+        UID: aed88275-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/09-merge.md
+      - Type: Lesson
+        UID: aed88276-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/10-exercise.md
+      - Type: Lesson
+        UID: aed88277-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/11-sync.md
+      - Type: Lesson
+        UID: aed88278-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/12-remotes.md
+      - Type: Lesson
+        UID: aed88279-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/13-forking.md
+      - Type: Lesson
+        UID: aed8827a-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/14-pulling-new-changes.md
+      - Type: Checkpoint
+        UID: aed8827b-b3d9-11e8-ac02-d96c12bddf08
+        Path: /git/99-checkpoint.md
+        Autoscore: false
+  - Title: Javascript Fundamentals
+    UID: aed8827c-b3d9-11e8-ac02-d96c12bddf08
+    Description: Utilize Javascript to solve accumulator problems
+    SuccessCriteria:
+      - 'Declare new, well-named variables with `var` and assign values to them'
+      - Use arithmetic operators on numbers
+      - Compare numbers and booleans
+      - Coerce strings into numbers with `==`
+      - Use template literals to use stored values in a string
+      - Create arrays with and without elements using the array literal syntax
+      - Access and replace values with bracket notation
+      - Add and remove from arrays with native array methods
+      - Create objects with and without contents using the object literal syntax
+      - >-
+        Access, replace, and add new values with bracket notation and dot
+        notation
+      - 'Create, access, and manipulate arrays/objects inside of arrays/objects'
+      - Loop a certain number of times with `for` and `while`
+      - Loop over arrays and objects
+      - Use conditionals to branch code
+      - >-
+        Use switch statements to handle multiple possible values to control the
+        flow of programs
+      - >-
+        Use objects to handle multiple possible values to control the flow of
+        programs
+      - Loop through deeply nested arrays and objects with for loops
+      - Use the browser's console to identify client-side JavaScript errors
+      - Identify common error types and their meanings
+      - Solve a bug with \"wolf fencing\"
+      - >-
+        Use Chrome breakpoints to stop the execution of code to identify and
+        solve problems
+      - >-
+        Use the node debugger to step through code to identify and solve
+        problems
+      - Identify the parts of the accumulator pattern
+      - >-
+        Write join, leftPad, rightPad, sum, and average functions using the
+        accumulator pattern
+      - 'Write min, max, and indexOf using the accumulator pattern'
+    ContentFiles:
+      - Type: Lesson
+        UID: aed8a970-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/00-overview.md
+      - Type: Lesson
+        UID: aed8f790-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/01-vars.md
+      - Type: Lesson
+        UID: aed91ea0-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/02-arithmetic-operators.md
+      - Type: Lesson
+        UID: aed91ea1-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/03-compare-numbers-and-booleans.md
+      - Type: Lesson
+        UID: aed91ea2-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/04-coercion.md
+      - Type: Lesson
+        UID: aed91ea3-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/05-templates.md
+      - Type: Lesson
+        UID: aed91ea4-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/06-exercise.md
+      - Type: Lesson
+        UID: aed91ea5-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/07-create-arrays.md
+      - Type: Lesson
+        UID: aed91ea6-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/08-access-arrays.md
+      - Type: Lesson
+        UID: aed91ea7-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/09-native-array-methods.md
+      - Type: Lesson
+        UID: aed91ea8-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/10-create-objects.md
+      - Type: Lesson
+        UID: aed91ea9-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/11-access-objects.md
+      - Type: Lesson
+        UID: aed91eaa-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/12-nested-structures.md
+      - Type: Lesson
+        UID: aed91eab-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/13-exercise.md
+      - Type: Lesson
+        UID: aed91eac-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/14-for-and-while.md
+      - Type: Lesson
+        UID: aed91ead-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/15-arrays-and-objects.md
+      - Type: Lesson
+        UID: aed91eae-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/16-conditionals.md
+      - Type: Lesson
+        UID: aed91eaf-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/17-switch.md
+      - Type: Lesson
+        UID: aed91eb0-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/18-nested.md
+      - Type: Lesson
+        UID: aed91eb1-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/19-exercise.md
+      - Type: Lesson
+        UID: aed91eb2-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/20-expressions.md
+      - Type: Lesson
+        UID: aed91eb3-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/21-declarations.md
+      - Type: Lesson
+        UID: aed91eb4-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/22-return-values.md
+      - Type: Lesson
+        UID: aed91eb5-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/23-side-effects.md
+      - Type: Lesson
+        UID: aed91eb6-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/24-multiple-params.md
+      - Type: Lesson
+        UID: aed91eb7-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/25-calls-within-calls.md
+      - Type: Lesson
+        UID: aed91eb8-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/26-exercise.md
+      - Type: Lesson
+        UID: aed91eb9-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/27-accumulator-parts.md
+      - Type: Lesson
+        UID: aed91eba-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/28-accumulator-uses.md
+      - Type: Lesson
+        UID: aed91ebb-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/29-more-accumulator-uses.md
+      - Type: Lesson
+        UID: 3c212d02-aaa5-4a54-a476-58ee75b84a54
+        Path: /js-fundamentals/30-exercise.md
+      - Type: Checkpoint
+        UID: aed91ebc-b3d9-11e8-ac02-d96c12bddf08
+        Path: /js-fundamentals/99-checkpoint.md
         Autoscore: false

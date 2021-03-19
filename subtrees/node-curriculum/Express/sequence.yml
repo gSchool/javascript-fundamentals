@@ -1,0 +1,39 @@
+- ContainerType: Unit
+  Title: Express Applications
+  Contents:
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Express/README.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Express/Assets.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Express/HTTP%20Refresher.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Express/HTTP%20Refresher%20Video.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Express/Middleware.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Express/REST.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Express/Router.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Express/Middleware%20Form%20Validation.md
+    - Type: Lesson
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Express/Error%20Handling.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Exercises/math/02%20-%20pi.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Exercises/math/03%20-%20calculate.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Exercises/math/04%20-%20volume.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Exercises/math/05%20-%20area.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Exercises/movies/01%20-%20omdb.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Exercises/movies/02%20-%20testing.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Exercises/flights/01%20-%20flight.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Exercises/flights/02%20-%20ticket%20total.md
+    - Type: Exercise
+      URL: https://github.com/gSchool/node-curriculum/blob/master/Express/Endpoints%20Assessment.md
