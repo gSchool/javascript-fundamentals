@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/gSchool/web-fundamentals-block#readme",
   "dependencies": {
-    "uuid": "^3.3.2"
+    "uuid": "^14.0.0"
   }
 }
